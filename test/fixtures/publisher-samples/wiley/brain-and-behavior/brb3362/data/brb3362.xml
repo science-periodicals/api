@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><component xmlns="http://www.wiley.com/namespaces/wiley" type="serialArticle" version="4.0" xml:id="brb3362" xml:lang="en">
+<header>
+<publicationMeta level="product">
+<doi origin="wiley" registered="yes">10.1002/(ISSN)2157-9032</doi>
+<issn type="print">2162-3279</issn>
+<issn type="electronic">2162-3279</issn>
+<idGroup>
+<id type="product" value="BRB3"/>
+</idGroup>
+<titleGroup>
+<title sort="BRAIN AND BEHAVIOR" type="main">Brain and Behavior</title>
+<title type="short">Brain Behav</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="90"><doi origin="wiley">10.1002/brb3.2015.5.issue-9</doi>
+<copyright ownership="publisher">© 2015 Published by Wiley Periodicals, Inc.</copyright><numberingGroup><numbering type="journalVolume" number="5">5</numbering><numbering type="journalIssue">9</numbering></numberingGroup>
+<coverDate startDate="2015-09">September 2015</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" position="20" status="forIssue" type="article" accessType="open">
+<doi>10.1002/brb3.362</doi>
+<idGroup>
+<id type="unit" value="BRB3362"/>
+<id type="eLocator" value="e00362"/>
+</idGroup>
+<countGroup>
+<count number="13" type="pageTotal"/>
+</countGroup>
+<titleGroup>
+<title type="articleCategory">Original Research</title>
+<title type="tocHeading1">Original Research</title>
+</titleGroup>
+<copyright ownership="publisher">© 2015 The Authors. <i>Brain and Behavior</i> published by Wiley Periodicals, Inc.</copyright>
+<legalStatement type="creativeCommonsBy">
+<p>This is an open access article under the terms of the <url href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</url> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p>
+</legalStatement>
+<eventGroup><event date="2015-01-09" type="manuscriptReceived"/><event date="2015-04-13" type="manuscriptRevised"/><event date="2015-05-04" type="manuscriptAccepted"/><event agent="SPS" date="2015-06-15" type="xmlCreated"/><event agent="SPS" date="2015-08-04" type="xmlCorrected"/><event type="publishedOnlineEarlyUnpaginated" date="2015-08-03"/><event type="firstOnline" date="2015-08-03"/><event type="publishedOnlineFinalForm" date="2015-09-15"/><event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:4.6.9 mode:FullText,remove_FC" date="2015-10-29"/></eventGroup>
+<numberingGroup><numbering type="pageFirst">n/a</numbering><numbering type="pageLast">n/a</numbering></numberingGroup>
+<correspondenceTo>
+<lineatedText>
+<line>
+<b>Correspondence</b>
+</line>
+<line>Neeta Garg, Department of Neurology, University of Massachusetts Medical School, 55 Lake Ave North, Worcester, MA 01655. Tel: +508 334 2527; Fax: +774 442 9122; E‐mail: <email>Neeta.Garg@umassmemorial.org</email> and</line>
+<line>Thomas W. Smith, Department of Pathology, University of Massachusetts Medical School, 55 Lake Ave North, Worcester, MA 01655. Tel: +508 856 2331; Fax: +508‐793‐6110; E‐mail: <email>Thomas.Smith@umassmemorial.org</email></line>
+</lineatedText>
+</correspondenceTo>
+<selfCitationGroup>
+<citation type="self" xml:id="brb3362-cit-1001"><author><givenNames>N.</givenNames> <familyName>Garg</familyName></author>, <author><givenNames>T. W.</givenNames> <familyName>Smith</familyName></author>, <articleTitle>An update on immunopathogenesis, diagnosis, and treatment of multiple sclerosis</articleTitle>, <journalTitle>Brain and Behavior</journalTitle>, <pubYear year="2015">2015</pubYear>; <vol>5</vol>(<issue>9</issue>), e00362, doi: <accessionId ref="info:doi/10.1002/brb3.362">10.1002/brb3.362</accessionId></citation>
+</selfCitationGroup>
+<linkGroup>
+<link type="toTypesetVersion" href="file:brb3362.pdf"/>
+</linkGroup>
+</publicationMeta>
+<contentMeta>
+<countGroup>
+    <count type="figureTotal" number="3"/>
+    <count type="tableTotal" number="5"/>
+    <count type="wordTotal" number="0"/>
+</countGroup>
+<titleGroup>
+<title type="main">An update on immunopathogenesis, diagnosis, and treatment of multiple sclerosis</title>
+<title type="shortAuthors">N. Garg &amp; T. W. Smith</title>
+</titleGroup>
+<creators>
+<creator affiliationRef="#brb3362-aff-0001" corresponding="yes" creatorRole="author" xml:id="brb3362-cr-0001">
+<personName><givenNames>Neeta</givenNames> <familyName>Garg</familyName></personName>
+    <contactDetails><email>Neeta.Garg@umassmemorial.org</email></contactDetails>
+</creator>
+<creator affiliationRef="#brb3362-aff-0002" corresponding="yes" creatorRole="author" xml:id="brb3362-cr-0002">
+<personName><givenNames>Thomas W.</givenNames> <familyName>Smith</familyName></personName>
+    <contactDetails><email>Thomas.Smith@umassmemorial.org</email></contactDetails>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation type="organization" xml:id="brb3362-aff-0001"><orgDiv>Department of Neurology</orgDiv> <orgName>University of Massachusetts Medical School</orgName> <address><city>Worcester</city> <countryPart>Massachusetts</countryPart> <postCode>01655</postCode></address></affiliation>
+<affiliation type="organization" xml:id="brb3362-aff-0002"><orgDiv>Department of Pathology</orgDiv> <orgName>University of Massachusetts Medical School</orgName> <address><city>Worcester</city> <countryPart>Massachusetts</countryPart> <postCode>01655</postCode></address></affiliation>
+</affiliationGroup>
+<keywordGroup type="author">
+<keyword xml:id="brb3362-kwd-0001">Demyelination</keyword>
+<keyword xml:id="brb3362-kwd-0002">diagnosis</keyword>
+<keyword xml:id="brb3362-kwd-0003">etiology</keyword>
+<keyword xml:id="brb3362-kwd-0004">immunomodulator</keyword>
+<keyword xml:id="brb3362-kwd-0005">multiple sclerosis</keyword>
+<keyword xml:id="brb3362-kwd-0006">pathogenesis</keyword>
+<keyword xml:id="brb3362-kwd-0007">treatment</keyword>
+</keywordGroup>
+<abstractGroup>
+<abstract type="main" xml:id="brb3362-abs-0001">
+<title type="main">Abstract</title>
+<section xml:id="brb3362-sec-0001">
+<title type="main">Background</title>
+<p>Multiple sclerosis is an acquired demyelinating disease of the central nervous system. It is the second most common cause of disability in adults in United States after head trauma.</p>
+</section>
+<section xml:id="brb3362-sec-0002">
+<title type="main">Discussion</title>
+<p>The etiology of <fc>MS</fc> is probably multifactorial, related to genetic, environmental, and several other factors. The pathogenesis is not fully understood but is believed to involve T‐cell‐mediated inflammation directed against myelin and other related proteins with a possible role for B cells. The McDonald criteria have been proposed and revised over the years to guide the diagnosis of <fc>MS</fc> and are based on clinical presentation and magnetic resonance imaging (<fc>MRI</fc>) of the brain and spinal cord to establish dissemination in time and space. The treatment of <fc>MS</fc> includes disease modification with immunomodulator drugs and symptom management to address the specific symptoms such as fatigue, spasticity, and pain.</p>
+</section>
+<section xml:id="brb3362-sec-0003">
+<title type="main">Conclusion</title>
+<p>An update on etiology, pathogenesis, diagnosis, and immunomodulatory treatment of <fc>MS</fc> is presented.</p>
+</section>
+</abstract>
+<abstract type="graphical" xml:id="brb3362-abs-0002">
+<p>Multiple sclerosis is an acquired demyelinating disease of the central nervous system. The etiology of MS is probably multifactorial, related to genetic, environmental, and several other factors. The pathogenesis is not fully understood but is believed to involve T‐cell‐mediated inflammation directed against myelin and other related proteins with a possible role for B cells. The treatment of MS includes disease modification with immunomodulator drugs and symptom management to address the specific symptoms such as fatigue, spasticity, pain, etc. An update on etiology, immunopathogenesis, diagnosis, and treatment of MS is presented.
+<blockFixed type="graphic" xml:id="brb3362-blkfxd-0001">
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:21623279:brb3362:brb3362-toc-0001"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webHiRes" href="image_m/brb3362-toc-0001-m.png"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webOriginal" href="image_n/brb3362-toc-0001.png"/>
+</mediaResourceGroup>
+</blockFixed>
+</p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+<body sectionsNumbered="no" xml:id="brb3362-body-0001">
+<section xml:id="brb3362-sec-0004">
+<title type="main">Introduction</title>
+<p>Multiple sclerosis is an autoimmune inflammatory disorder of CNS of unknown etiology, characterized by demyelination and variable degrees of axonal loss. The disease affects mostly young women (between ages 20 and 40 years) and is one of leading causes of disability in young adults in United States (Orton et al. <link href="#brb3362-bib-0081"/>; Kister et al. <link href="#brb3362-bib-0058"/>). Its prevalence in the United States is about 400,000 and over two million people are affected worldwide with an expected increase in the number of cases in future (Weinshenker <link href="#brb3362-bib-0101"/>; Mayr et al. <link href="#brb3362-bib-0069"/>). The disease appears to be more common in northern hemisphere and there is some genetic susceptibility as well in individuals of Scandinavian or northern European ancestry (Williams et al. <link href="#brb3362-bib-0104"/>; Compston and Coles <link href="#brb3362-bib-0022"/>). The etiology although unknown presumably involves interaction between genetic, environmental, and other factors triggering an aberrant autoimmune attack resulting in damage to myelin and axons (Bruck and Stadelmann <link href="#brb3362-bib-0015"/>). The course of MS can be variable with a significant proportion of patients experiencing some progression following the initial relapsing remitting phase leading to significant disability (Weinshenker et al. <link href="#brb3362-bib-0102"/>; Lublin and Reingold <link href="#brb3362-bib-0064"/>). Much progress has been made in the past two decades in treating MS with the advent of effective immunomodulatory therapies which can potentially slow down the progression and alter the disease course.</p>
+</section>
+<section xml:id="brb3362-sec-0005">
+<title type="main">Etiology</title>
+<p>The etiology of MS remains unknown; however, it is believed to be caused by immune dysregulation triggered by genetic and environmental factors (Ascherio and Munger <link href="#brb3362-bib-0004"/>,<link href="#brb3362-bib-0005">b</link>). Although MS is not an inherited disease, there is a strong genetic component to its etiology as evidenced by clustering of MS cases within families. The risk of MS among first‐degree relatives of MS patients is 10–50 times higher than the general population (absolute risk 2–5%); the concordance rate in monzygotic twins is about one‐third (Weinshenker <link href="#brb3362-bib-0101"/>; Kantarci <link href="#brb3362-bib-0054"/>). Linkage analysis studies have revealed several gene loci as risk factors, with the major histocompatibility complex (MHC) HLA DR15/DQ6 allele being the strongest one (Barcellos et al. <link href="#brb3362-bib-0008"/>; Sawcer et al. <link href="#brb3362-bib-0091"/>). More recently, alleles of interleukin‐2 receptor alpha gene (IL2RA) and interleukin‐7 receptor alpha gene (IL7RA) have also been identified as inheritable risk factors (Hafler et al. <link href="#brb3362-bib-0047"/>; Sawcer et al. <link href="#brb3362-bib-0091"/>). However, most of the genetic factors underlying susceptibility still remain to be defined. Furthermore, genetic susceptibility does not fully explain the changes in MS risk that occur with migration suggesting a likely role for environmental factors.</p>
+<p>Among environmental factors, Epstein‐Barr virus (EBV) infection and vitamin D deficiency have been extensively studied and strongly linked to MS risk (Ascherio and Munger <link href="#brb3362-bib-0004"/>,<link href="#brb3362-bib-0005">b</link>) MS is prevalent in geographic areas farther away from the equator (Simpson et al. <link href="#brb3362-bib-0093"/>). Low vitamin D levels from reduced sun exposure may be a factor contributing to increased susceptibility to MS in these regions (Ascherio and Munger <link href="#brb3362-bib-0005"/>; Correale et al. <link href="#brb3362-bib-0025"/>; Ascherio et al. <link href="#brb3362-bib-0006"/>). Studies have suggested that higher levels of vitamin D have a possible protective role in certain susceptible patient populations (Munger et al. <link href="#brb3362-bib-0074"/>, <link href="#brb3362-bib-0075"/>). The risk of developing MS is approximately 15‐fold higher among individuals with a history of EBV infection in childhood and about 30‐fold higher among those infected with EBV in adolescence or later in life (Ascherio <link href="#brb3362-bib-0003"/>). However, the difference in the risk of MS among migrants from high to low MS prevalence areas suggests that other infectious or noninfectious factors in addition to EBV may be involved (Ascherio and Munger <link href="#brb3362-bib-0004"/>,<link href="#brb3362-bib-0005">b</link>). The “hygiene hypothesis,” supported by many epidemiological observations, suggests that improved sanitation and reduced childhood infections in developed countries may account for the increased rates of autoimmune diseases (T‐helper 1 mediated) and allergy (T‐helper 2 mediated) (Conradi et al. <link href="#brb3362-bib-0024"/>). However, this hypothesis does not explain the higher MS prevalence in rural compared to urban areas (with expected improved sanitation) reported in some studies (Sotgiu et al. <link href="#brb3362-bib-0095"/>).</p>
+<p>Cigarette smoking has also been proposed at a potential environmental risk factor with several studies reporting an association between smoking and MS risk and disease activity (Wingerchuk <link href="#brb3362-bib-0105"/>). The odds ratio for developing MS is approximately 1.5 for smokers compared with nonsmokers (Wingerchuk <link href="#brb3362-bib-0105"/>; Fragoso <link href="#brb3362-bib-0036"/>). As with other risk factors, smoking appears to influence the MS susceptibility in conjunction with the genetic and other environmental factors.</p>
+<p>There is no specific diet associated with increased risk of MS. The role of dietary factors appears to be complex and related to the influence of multiple dietary components including vitamin A and D, salt, omega‐3‐unsaturated fatty acid, and polyphenol on immune regulation. Some recent reports have suggested that salt modulates the differentiation of human and mouse Th17 cells (Kleinewietfeld et al. <link href="#brb3362-bib-0059"/>; Wu et al. <link href="#brb3362-bib-0107"/>). A more aggressive course of experimental autoimmune encephalomyelitis (EAE) was observed in mice fed a high sodium diet. In a small observational study, higher sodium intake was associated with increased clinical and radiological disease activity in patients with MS (Farez et al. <link href="#brb3362-bib-0029"/>).</p>
+<p>The potential risk factors for MS are listed in Table <link href="#brb3362-tbl-0001"/>.</p>
+<tabular copyright="John Wiley &amp; Sons, Ltd" xml:id="brb3362-tbl-0001">
+<title type="main">Potential risk factors for multiple sclerosis</title>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="1">
+<colspec colname="col1" colnum="1" colsep="0"/>
+<tbody>
+<row>
+<entry align="left" colname="col1">Female gender</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Caucasian race</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Genetic</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">HLA DR15/DQ6, IL2RA and IL7RA alleles</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Infections</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Epstein–Barr virus (EBV) infection</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Temperate climate</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Low vitamin D level</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Lack of sunlight exposure</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Cigarette smoking</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tabular>
+</section>
+<section xml:id="brb3362-sec-0006">
+<title type="main">Immunopathogenes</title>
+<p>The pathogenesis of MS involves immune attack against CNS antigens mediated through activated CD4+ myelin‐reactive T cells with a possible contribution by B cells. Much of our understanding of immunopathogenesis of MS is derived from the study of experimental autoimmune encephalomyelitis (EAE), an animal model of CNS inflammatory demyelination that can be induced by peripheral immunization with myelin protein components. EAE shares many of the histologic features of MS including active demyelination, oligodendrocyte and axonal loss, all of which are presumably mediated by myelin specific T cells (Yong <link href="#brb3362-bib-0109"/>; Gold et al. <link href="#brb3362-bib-0042"/>). The immunopathogenesis of MS is thought to involve a breach of self‐tolerance toward myelin and other CNS antigens resulting in persistent peripheral activation of autoreactive T cells (Hafler et al. <link href="#brb3362-bib-0046"/>; Selter and Hemmer <link href="#brb3362-bib-0092"/>). In a genetically susceptible individual, this loss of self‐tolerance may be triggered by an environmental antigen, presumably an infectious agent such as a virus. The infection could cause bystander activation of T cells or result in release of autoantigens due to cellular damage, which can then lead to activation of T cells by cross reactivity between an endogenous protein (e.g., myelin basic protein) and the pathogenic exogenous protein (viral or bacterial antigen), a process known as molecular mimicry (Fujinami and Oldstone <link href="#brb3362-bib-0039"/>; Wucherpfennig and Strominger <link href="#brb3362-bib-0108"/>; Aichele et al. <link href="#brb3362-bib-0002"/>; Gran et al. <link href="#brb3362-bib-0044"/>; O'Connor et al. <link href="#brb3362-bib-0077"/>).</p>
+<p>As depicted in Figure <link href="#brb3362-fig-0001"/>, once activated in the periphery, myelin‐reactive T cells are able to migrate across the blood–brain barrier (BBB). The transmigration process involves interaction between very late antigen‐4 (VLA‐4) present on T lymphocytes and the vascular cell adhesion molecule‐1 (VCAM‐1) expressed on capillary endothelial cells; this process is facilitated by expression and upregulation of various adhesion molecules, chemokines, and matrix metalloproteinases (MMPs) (Yong <link href="#brb3362-bib-0109"/>; Gold and Wolinsky <link href="#brb3362-bib-0041"/>). After entering the CNS, the autoreactive peripherally activated T cells can be reactivated upon encountering the autoantigenic peptides within the brain parenchyma in the context of MHC class II molecules expressed by local antigen presenting cells (dendritic cells, macrophages, and B cells) triggering an inflammatory cascade leading to release of cytokines and chemokines, recruitment of additional inflammatory cells including T cells, monocytes, and B cells and persistent activation of microglia and macrophages resulting in myelin damage (Hemmer et al. <link href="#brb3362-bib-0049"/>; Frohman et al. <link href="#brb3362-bib-0038"/>; Inglese <link href="#brb3362-bib-0053"/>). The local inflammation and demyelination results in exposure of sequestered myelin autoantigens providing an additional target for self‐reactive T cells, a phenomenon called “epitope spreading” (Miller et al. <link href="#brb3362-bib-0071"/>). Activation of resident CNS glial cells (such as microglia) results in persistent inflammation even in absence of further infiltration of exogenous inflammatory cells (O'Connor et al. <link href="#brb3362-bib-0077"/>). The evidence based on animal studies suggests that CD4<sup>+</sup> T‐helper 1 (T<sub>H</sub>1) cells which release proinflammatory cytokines such as interferon‐gamma, interleukin‐2 (IL‐2), and tumor necrosis factor‐<i>α</i> (TNF‐<i>α</i>) are the key players in mediating inflammation in MS with some role for the novel CD4<sup>+</sup> T‐helper‐17 (T<sub>H</sub>17) cell subset which secretes IL‐17 (O'Connor et al. <link href="#brb3362-bib-0077"/>; Selter and Hemmer <link href="#brb3362-bib-0092"/>). The CD4<sup>+</sup> T‐helper 2 (T<sub>H</sub>2) cells, which secret interleukins 4, 5, and 10 are believed to have a counter regulatory role limiting the T<sub>H</sub>1‐cell‐mediated injury (Tzartos et al. <link href="#brb3362-bib-0099"/>). The T<sub>H</sub>1/T<sub>H</sub>2 paradigm is more apparent in EAE; in MS, indirect evidence exists for a predominant role of Th1 cells based on the success of therapies that shift the cytokine profile away from Th1 toward Th2. CD8+ T cells are believed to be involved as well and can induce axonal pathology by direct injury to MHC I/antigen expressing cells such as neurons and oligodendrocytes (Batoulis et al. <link href="#brb3362-bib-0011"/>). The contribution of B cells to MS pathogenesis (possibly through autoantibody secretion and antigen presentation to T cells) has recently been recognized and is supported by observed pathologic heterogeneity of MS lesions, the presence of meningeal inflammation and B‐cell follicle‐like structures adjacent to subpial cortical lesions, and the success of B‐cell‐based immunotherapies (O'Connor et al. <link href="#brb3362-bib-0077"/>; Batoulis et al. <link href="#brb3362-bib-0011"/>; Naismith et al. <link href="#brb3362-bib-0076"/>).</p>
+<figure xml:id="brb3362-fig-0001">
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:21623279:media:brb3362:brb3362-fig-0001"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webHiRes" href="image_m/brb3362-fig-0001-m.png"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webOriginal" href="image_n/brb3362-fig-0001.png"/>
+<mediaResource alt="image" mimeType="image/gif" rendition="webLoRes" href="image_t/brb3362-fig-0001-t.gif"/>
+</mediaResourceGroup>
+<caption>Immunopathogenic mechanisms in <fc>MS</fc> and proposed targets of different disease modifying therapies.</caption>
+</figure>
+<p>Although demyelination is the hallmark of MS pathology, early axonal injury and axonal loss also occur and may drive disability progression (Trapp et al. <link href="#brb3362-bib-0098"/>). The exact mechanism(s) of both myelin and axonal injury are not completely understood, but are likely to include both direct injury to myelin and oligodendrocytes, and axons by CD4+ and CD8+ T lymphocytes, activated microglia/macrophages, and/or antibody and complement as well as the indirect effects of proinflammatory cytokines such as IL‐1beta, TNF‐<i>α</i>, nitric oxide, and MMPs (Lucchinetti et al. <link href="#brb3362-bib-0066"/>; Hemmer et al. <link href="#brb3362-bib-0049"/>; Gold and Wolinsky <link href="#brb3362-bib-0041"/>). Meningeal inflammatory infiltrates reported in association with subpial cortical lesions may contribute to cortical inflammation and disability in some cases (Howell et al. <link href="#brb3362-bib-0050"/>; Lucchinetti et al. <link href="#brb3362-bib-0068"/>).</p>
+</section>
+<section xml:id="brb3362-sec-0007">
+<title type="main">Pathology</title>
+<p>The MS plaques or lesions are focal areas of demyelination associated with variable inflammation and axonal loss that predominantly affect the white matter of the brain, spinal cord, and optic nerves but can also involve the cerebral cortex including subpial regions (Sobel and Moore <link href="#brb3362-bib-0094"/>; Popescu and Lucchinetti <link href="#brb3362-bib-0085"/>). The inflammatory infiltrates associated with plaques consist of activated T cells (predominantly CD8+ with variable presence of CD4+ cells), activated macrophages/microglia, plasma cells, and B cells (Hauser et al. <link href="#brb3362-bib-0048"/>; O'Connor et al. <link href="#brb3362-bib-0077"/>). MS plaques can be further classified histologically as active, chronic, and remyelinated. Active lesions are common in relapsing remitting MS and are characterized by myelin degradation (with relative axonal preservation), macrophage infiltration, reactive astrocytes, and perivascular and parenchymal inflammation (Bruck et al. <link href="#brb3362-bib-0016"/>; Frischer et al. <link href="#brb3362-bib-0037"/>). Chronic or inactive plaques are more often seen in patients with progressive disease and are associated with more extensive demyelination, often with marked axonal depletion, loss of oligodendrocytes, and relative absence of active inflammation (Prineas et al. <link href="#brb3362-bib-0086"/>; Sobel and Moore <link href="#brb3362-bib-0094"/>; Popescu and Lucchinetti <link href="#brb3362-bib-0085"/>). Remyelinated plaques are seen within or more often at the margins of active plaques and contain thinly myelinated axons and often increased numbers of oligodendrocyte precursor cells (Bruck et al. <link href="#brb3362-bib-0016"/>; Popescu and Lucchinetti <link href="#brb3362-bib-0085"/>). “Shadow plaques” are lesions that show more diffuse (but still incomplete) remyelination and are seen in patients with relapsing and progressive disease (Barkhof et al. <link href="#brb3362-bib-0009"/>). The presence of cortical demyelination and axonal loss has been increasingly recognized in early MS (Trapp et al. <link href="#brb3362-bib-0098"/>; Cifelli et al. <link href="#brb3362-bib-0020"/>). Lucchinetti and colleagues have described four distinct immmopathological patterns (pattern I with macrophage and T‐cell predominance, II with additional immunoglobulin and complement deposition, III with apoptotic oligodendrocyte loss, and the rare type IV pattern with nonapoptotic death of oligodendrocytes) in active MS lesions, suggesting that there may be pathological heterogeneity among MS patients (Lucchinetti et al. <link href="#brb3362-bib-0066"/>). However, the observed pathologic heterogeneity may not be exclusive to a subset of MS patients and is probably related to the stage of disease in a given patient (Barnett and Prineas <link href="#brb3362-bib-0010"/>). Cortical involvement can occur in MS and may reflect either the presence of cortical demyelination or actual neuronal loss. Within the cortex, three distinct lesion types have been described based on the location of the plaques: subpial, intracortical, and leukocortical (Bogdan et al. <link href="#brb3362-bib-0014"/>). Cortical lesions seen in early MS are usually highly inflammatory and correlate with cognitive impairment (Geurts and Barkhof <link href="#brb3362-bib-0040"/>; Lucchinetti et al. <link href="#brb3362-bib-0068"/>).</p>
+</section>
+<section xml:id="brb3362-sec-0008">
+<title type="main">Clinical Presentation and Diagnosis</title>
+<p>The clinical symptoms and signs of MS are variable and may result from involvement of sensory, motor, visual, and brainstem pathways. The majority of patients with MS initially present with relapsing remitting episodes of new or recurrent neurological symptoms. The first clinical event in these patients, termed clinically isolated syndrome (CIS), can be optic neuritis, incomplete myelitis, or brainstem syndrome (Miller et al. <link href="#brb3362-bib-0073"/>). The presence of classic demyelination lesions on baseline brain or spinal cord MRI is the most important predictor of having a second relapse in CIS patients (Filippi et al. <link href="#brb3362-bib-0031"/>). The presence of cerebrospinal fluid (CSF) abnormalities (positive oligoclonal bands) may have additional prognostic value in patients with CIS and positive brain MRI (Miller et al. <link href="#brb3362-bib-0073"/>; Awad et al. <link href="#brb3362-bib-0007"/>). A variable proportion of patients with relapsing remitting MS (25–40%) develop secondary progressive disease over time with progressive accumulation of disability with infrequent or no relapses (Lublin and Reingold <link href="#brb3362-bib-0064"/>). Primary progressive MS (seen in approximately 10–15% patients) is defined by progressive accumulation of disability from the onset with no or minor relapses and typically presents with a progressive myelopathy with an older age of onset and involving a higher proportion of men (Miller and Leary <link href="#brb3362-bib-0070"/>). Both primary and secondary progressive MS share some clinical and imaging features and are now considered to be part of the progressive disease spectrum (Lublin and Reingold <link href="#brb3362-bib-0064"/>; Ingle et al. <link href="#brb3362-bib-0052"/>; Lublin et al. <link href="#brb3362-bib-0065"/>). The progressive relapsing form of MS with worsening disability from onset and clear acute relapses with or without full recovery is now considered to be progressive disease with disease activity (Lublin et al. <link href="#brb3362-bib-0065"/>).</p>
+<p>There is no single diagnostic test for MS and the diagnosis is usually based on the clinical presentation, supported by neuroimaging and in some cases by CSF analysis (to look for inflammatory markers oligoclonal bands and/or elevated IgG index) and evoked potential studies (to look for clinically silent lesion in visual, brainstem, or spinal cord pathways). CSF inflammatory markers are present in up to 85% patients with MS (Link and Huang <link href="#brb3362-bib-0062"/>); IgG index is less sensitive and specific than oligoclonal bands Awad et al. <link href="#brb3362-bib-0007"/>). There have been several proposed diagnostic criteria incorporating the clinical and ancillary data, the most commonly used one is the McDonald criteria initially proposed in 2001 and revised in 2005 and most recently in 2011 (Polman et al. <link href="#brb3362-bib-0084"/>). The basic concept behind these criteria is demonstration of dissemination in time (DIT) and space using the clinical and/or MRI data. A detailed discussion of McDonald criteria is beyond the scope of this review; in summary, the definitive diagnosis of MS requires ≥2 attacks or objective clinical evidence of ≥ 2 lesions or objective clinical evidence of 1 lesion with historical evidence of a prior attack. With one clinical attack, DIT can be demonstrated by presence of asymptomatic gadolinium‐enhancing and nonenhancing lesions at any time or by presence of new lesions on a follow‐up scan obtained anytime after the initial symptom onset or the simultaneous (see Table <link href="#brb3362-tbl-0002"/>). Dissemination in space (DIS) in a patient with two clinical attacks but objective evidence of one lesion can be demonstrated by using the MRI criteria detailed in Table <link href="#brb3362-tbl-0003"/>. The criteria for primary progressive MS include 1 year of disease progression plus two of the following criteria: a. evidence of DIS in brain, b. DIS in spinal cord (≥ 2 T2 lesions in the cord), c. positive CSF oligoclonal bands and/or elevated IgG index.</p>
+<tabular copyright="John Wiley &amp; Sons, Ltd" xml:id="brb3362-tbl-0002">
+<title type="main">McDonald MRI criteria for demonstration of DIT (Polman et al. <link href="#brb3362-bib-0084"/>)</title>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="1">
+<colspec colname="col1" colnum="1" colsep="0"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1">DIT Can be Demonstrated by</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="col1">1. A new T2 and/or gadolinium‐enhancing lesion(s) on follow‐up MRI, with reference to a baseline scan, irrespective of the timing of the baseline MRI</entry>
+</row>
+<row>
+<entry align="left" colname="col1">2. Simultaneous presence of asymptomatic gadolinium‐enhancing and nonenhancing lesions at any time</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup xml:id="brb3362-ntgp-0001">
+<note numbered="no" xml:id="brb3362-note-0002">
+<p>MRI, magnetic resonance imaging; DIT, lesion dissemination in time.</p>
+</note>
+<note numbered="no" xml:id="brb3362-note-0003">
+<p>Based on Montalban et al. <link href="#brb3362-bib-0500"/>.</p>
+</note>
+<note numbered="no" xml:id="brb3362-note-0004">
+<p>Adapted from Polman et al. (<link href="#brb3362-bib-0084"/>).</p>
+</note>
+</noteGroup>
+</tabular>
+<tabular copyright="John Wiley &amp; Sons, Ltd" xml:id="brb3362-tbl-0003">
+<title type="main">McDonald MRI criteria for demonstration of DIS (Polman et al. <link href="#brb3362-bib-0084"/>)</title>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="1">
+<colspec colname="col1" colnum="1" colsep="0"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1">DIS can be demonstrated by ≥ 1 T2 lesions<link href="#brb3362-note-0008"/> in at least 2 of the 4 area of the CNS</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="col1">Periventricular</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Juxtacortical</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Infratentorial</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Spinal cord<link href="#brb3362-note-0009"/></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup xml:id="brb3362-ntgp-0002">
+<note numbered="no" xml:id="brb3362-note-0005">
+<p>MRI, magnetic resonance imaging; DIS, lesion dissemination in space; CNS, central nervous system.</p>
+</note>
+<note numbered="no" xml:id="brb3362-note-0006">
+<p>Based on Swanton et al. <link href="#brb3362-bib-0501"/>, <link href="#brb3362-bib-0502"/>.</p>
+</note>
+<note numbered="no" xml:id="brb3362-note-0007">
+<p>Adapted from Polman et al. (<link href="#brb3362-bib-0084"/>).</p>
+</note>
+<note xml:id="brb3362-note-0008">
+<p>Gadolinium enhancement of lesions is not required for DIS.</p>
+</note>
+<note xml:id="brb3362-note-0009">
+<p>If a subject has a brainstem or spinal cord syndrome, the symptomatic lesions are excluded from the Criteria and do not contribute to lesion count.</p>
+</note>
+</noteGroup>
+</tabular>
+<p>In patients presenting with typical relapsing remitting symptoms and classic demyelination lesions (e.g., shown in Fig. <link href="#brb3362-fig-0002"/>) on neuroimaging meeting the radiological criteria, the differential diagnosis is limited and often no further diagnostic testing is indicated in these cases.</p>
+<figure xml:id="brb3362-fig-0002">
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:21623279:media:brb3362:brb3362-fig-0002"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webHiRes" href="image_m/brb3362-fig-0002-m.png"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webOriginal" href="image_n/brb3362-fig-0002.png"/>
+<mediaResource alt="image" mimeType="image/gif" rendition="webLoRes" href="image_t/brb3362-fig-0002-t.gif"/>
+</mediaResourceGroup>
+<caption>Brain <fc>MRI</fc> axial fluid attenuated inversion recovery (<fc>FLAIR</fc>) image shows the characteristic periventricular areas of increased signal intensity (arrows) that are oriented perpendicular to and often contiguous with the lateral ventricles.</caption>
+</figure>
+<p>The differential diagnosis in other cases depends on the clinical presentation and is outlined in Table <link href="#brb3362-tbl-0004"/>.</p>
+<tabular copyright="John Wiley &amp; Sons, Ltd" xml:id="brb3362-tbl-0004">
+<title type="main">Differential diagnosis of multiple sclerosis</title>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="1">
+<colspec colname="col1" colnum="1" colsep="0"/>
+<tbody>
+<row>
+<entry align="left" colname="col1">Optic neuritis/neuropathy</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Inflammatory, neuromyelitis optica (NMO) spectrum disorder, genetic, ischemic</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Myelitis/myelopathy—</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Inflammatory demyelination—idiopathic, postviral, postvaccinialNMO spectrum disorder, Autoimmune–systemic lupus erythematosus, antiphospholipid antibody syndrome, other systemic autoimmune disorders</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Infectious (Lyme disease, HIV, viral, others)</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Ischemic/vascular</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Others–compressive, nutritional</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Brainstem syndrome</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Stroke, tumor, vasculitis (lupus, Sjögren's syndrome, Behçet's disease)</entry>
+</row>
+<row>
+<entry align="left" colname="col1">Cerebral white matter lesions</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Small vessel disease (Leukoaraiosis)</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Migraine</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Primary CNS vasculitis</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Sarcoidosis</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">CADASIL (Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy) </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tabular>
+<section xml:id="brb3362-sec-0009">
+<title type="main">Atypical presentation or variants of MS</title>
+<p>There are some less common clinical variants of MS which present with atypical clinical and radiological features, these include tumefactive MS, Balo's concentric sclerosis, and Marburg disease. The radiological hallmark of tumefactive MS is a large solitary &gt;2 cm lesion associated with mass effect, edema and/or ring enhancement (hence the name tumefactive). The clinical symptoms depend on the size and location of the lesion and often include aphasia, agnosia, seizures and visual field defects, not typically seen in CIS or RRMS patients (Lucchinetti et al. <link href="#brb3362-bib-0067"/>). Marburg's disease and Balo's concentric sclerosis are characterized by a rapidly evolving fulminant clinical course and poor prognosis. The Marburg variant has the distinct radiological feature of large tumor‐like multifocal demyelinating lesions in deep white matter; the pathological changes are similar to those of classicMS but may appear more destructive and have more inflammatory infiltrates (Karussis <link href="#brb3362-bib-0057"/>). The pathological changes seen in Balo's concentric sclerosis are quite unique and consist of alternating bands of normally myelinated or remyelinated, and demyelinated white matter; this pattern has been described as resembling hypoxia‐induced injury (Stadelmann et al. <link href="#brb3362-bib-0096"/>). The MRI may show alternating isointense and hypointense concentric rings with partial enhancement on T1‐weighted images (Zettl et al. <link href="#brb3362-bib-0112"/>; Karussis <link href="#brb3362-bib-0057"/>).</p>
+</section>
+</section>
+<section xml:id="brb3362-sec-0010">
+<title type="main">Therapeutic Options</title>
+<p>The management of MS includes treatment with immunomodulatory agents that help alter the course of the disease, symptomatic management focusing on relieving specific symptoms such as fatigue, spasticity, bladder dysfunction, and pain (not discussed in this review). Corticosteroids (methylprednisolone) and adrenocorticotropic hormone (ACTH) have anti‐inflammatory and immunomodulatory effects and are typically used to treat acute relapse to hasten the recovery (Berkovich <link href="#brb3362-bib-0012"/>). The immunomodulatory therapies (IMT) used in long‐term disease modification are discussed in the next section.</p>
+</section>
+<section xml:id="brb3362-sec-0011">
+<title type="main">Immunomodulatory Therapies</title>
+<p>The most significant progress in the treatment of MS in the last two decades has been the development of IMT. Since the introduction of first immunomodulating medication, interferon beta‐1b in 1993, several other medications with different mechanism of action (figure <link href="#brb3362-fig-0001"/>), mode and frequency of administration have become available. Currently, there are 12 medications approved for treatment of MS, including six self‐injectable, three infusion based, and three oral medications as listed in Table <link href="#brb3362-tbl-0005"/>.</p>
+<tabular copyright="John Wiley &amp; Sons, Ltd" xml:id="brb3362-tbl-0005">
+<title type="main">Approved therapies for multiple sclerosis</title>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colsep="0"/>
+<colspec colname="col2" colnum="2" colsep="0"/>
+<colspec colname="col3" colnum="3" colsep="0"/>
+<colspec colname="col4" colnum="4" colsep="0"/>
+<colspec colname="col5" colnum="5" colsep="0"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left" colname="col1">Medication</entry>
+<entry align="left" colname="col2">Dose</entry>
+<entry align="left" colname="col3">Route</entry>
+<entry align="left" colname="col4">Frequency</entry>
+<entry align="left" colname="col5">Major side effects</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" nameend="col5" namest="col1">First‐line therapies</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Beta‐interferon‐1b (Betaseron<sup>®</sup>, Bayer HealthCare Pharmaceuticals Inc., Whippany, NJ) </entry>
+<entry align="left" colname="col2">250 µg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Every other day</entry>
+<entry align="left" colname="col5" morerows="4">Flu‐like symptoms, injection site reactions, liver enzyme elevation, thyroid abnormalities, leukopenia or anemia, and depression</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Beta‐interferon‐1a (Avonex<sup>®</sup>, Biogen Idec, Cambridge, MA )</entry>
+<entry align="left" colname="col2">30 µg</entry>
+<entry align="left" colname="col3">IM</entry>
+<entry align="left" colname="col4">Once a week</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Peginterferon beta‐1a (Plegridy<sup>®</sup>, Biogen Idec, Cambridge, MA)</entry>
+<entry align="left" colname="col2">125 µg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Every 14 days</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Beta‐interferon‐1a (Rebif<sup>®</sup>, EMD Serono, Inc. Rockland, MA )</entry>
+<entry align="left" colname="col2">44 µg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Three times weekly</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Beta‐interferon‐1b (Extavia<sup>®</sup>, Bayer HealthCare Pharmaceuticals Inc., Montville, NJ)</entry>
+<entry align="left" colname="col2">250 µg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Every other day</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1" morerows="1">Glatiramer acetate (Copaxone<sup>®</sup>, TEVA Neuroscience, Inc., Overland Park, KS )</entry>
+<entry align="left" colname="col2">20 mg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Daily</entry>
+<entry align="left" colname="col5" morerows="1">Local injection site reactions, postinjection reaction (flushing, chest tightness, palpitation, and dyspnea) and rare lipoatrophy with prolonged use</entry>
+</row>
+<row>
+<entry align="left" colname="col2">40 mg</entry>
+<entry align="left" colname="col3">SC</entry>
+<entry align="left" colname="col4">Three times weekly</entry>
+</row>
+<row>
+<entry align="left" nameend="col5" namest="col1">Second line therapies</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Natalizumab (Tysabri<sup>®</sup>, Biogen Idec, Cambridge, MA)</entry>
+<entry align="left" colname="col2">300 mg</entry>
+<entry align="left" colname="col3">IV</entry>
+<entry align="left" colname="col4">Every 4 weeks</entry>
+<entry align="left" colname="col5">Hepatotoxicity, infusion reactions, progressive multifocal encephalopathy (PML)</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Mitoxantrone (Novantrone<sup>®</sup>, EMD Serono, Inc. Rockland, MA)</entry>
+<entry align="left" colname="col2">Weight‐based dose</entry>
+<entry align="left" colname="col3">IV</entry>
+<entry align="left" colname="col4">Every 3 months</entry>
+<entry align="left" colname="col5">Cardiotoxicity, secondary leukemia</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Fingolimod (Gilenya<sup>®</sup>, Novartis Pharma Stein AG Stein, Switzerland)</entry>
+<entry align="left" colname="col2">0.5 mg</entry>
+<entry align="left" colname="col3">Oral</entry>
+<entry align="left" colname="col4">Once daily</entry>
+<entry align="left" colname="col5">First dose bradycardia, atrioventricular block, herpes virus infection, macular edema, elevated blood pressure, rare risk of PML</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Teriflunomide (Aubagio<sup>®</sup>, Genzyme Corporation, Cambridge, MA)</entry>
+<entry align="left" colname="col2">7 and 14 mg</entry>
+<entry align="left" colname="col3">Oral</entry>
+<entry align="left" colname="col4">Once daily</entry>
+<entry align="left" colname="col5">Hair loss, headache, diarrhea, hepatotoxicity, teratogenicity, increased risk of infections due to lymphopenia</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Dimethyl fumarate (Tecfidera<sup>®</sup>, Biogen Idec., Cambridge, MA )</entry>
+<entry align="left" colname="col2">240 mg</entry>
+<entry align="left" colname="col3">Oral</entry>
+<entry align="left" colname="col4">Twice daily</entry>
+<entry align="left" colname="col5">GI effects‐nausea, diarrhea, abdominal pain, flushing, pruritus, liver enzyme elevation, lymphopenia, rare cases of PML</entry>
+</row>
+<row>
+<entry align="left" colname="col1" indentLevel="1">Alemtuzumab (Lemtrada<sup>®</sup>, Genzyme Corporation, Cambridge, MA )</entry>
+<entry align="left" colname="col2">12 mg or 24 mg</entry>
+<entry align="left" colname="col3">IV</entry>
+<entry align="left" colname="col4">Per day (5 days in year 1, 3 days in year 2)</entry>
+<entry align="left" colname="col5">Serious infusion reactions, secondary autoimmune diseases‐thryoiditis, thrombocytopenia, anti‐glomerual basement membrane disease, increased risk of malignancies—thyroid cancer, melanoma, lymphoproliferative disorders</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tabular>
+<p>The mechanism of action of IMT used for treatment of MS is broad suppression of the immune response mediated by autoreactive lymphocytes; most of these are effective in relapsing remitting MS where inflammatory demyelination is the primary process (Weinstock‐Guttman et al. <link href="#brb3362-bib-0103"/>; Rudick et al. <link href="#brb3362-bib-0088"/>; Damal et al. <link href="#brb3362-bib-0026"/>). The goal of these therapies is to reduce the frequency of relapses and number of MRI lesions (new, enlarging and/or enhancing T2 lesions), and slow the disability progression. Most of these agents have shown good efficacy in patients with relapsing remitting MS and clinically isolated syndrome, however, their benefit in patients with progressive disease has been questionable (Filippini et al. <link href="#brb3362-bib-0032"/>). The mechanism of action and side‐effect profile of different IMTs are briefly discussed here with the exception of alemtuzumab, the latest medication to be approved for treatment of MS.</p>
+</section>
+<section xml:id="brb3362-sec-0012">
+<title type="main">Beta‐Interferon</title>
+<p>Interferons (IFNs) are endogenous proteins that are involved in immune response against viral and bacterial agents and were the first class of disease modifying agents developed for treatment of MS. The beta‐interferons (IFN‐<i>β</i>) have multiple actions including stabilizing the BBB thereby limiting the entry of T cells into the CNS, modulating T‐ and B‐cell function, and altering the expression of cytokines (Yong et al. <link href="#brb3362-bib-0110"/>; Weber et al. <link href="#brb3362-bib-0100"/>; Dhib‐Jalbut <link href="#brb3362-bib-0027"/>). Several different preparations of IFN‐ <i>β</i> are available and are listed in Table <link href="#brb3362-tbl-0005"/>. Both IFN‐ <i>β</i>1a and IFN‐<i>β</i>1b have shown similar efficacy and are considered first line agents for treating patients with relapsing MS and CIS (Rudick et al. <link href="#brb3362-bib-0088"/>). Although two different trials with IFN‐ <i>β</i>1b showed conflicting results in secondary progressive MS, it may be indicated in patients with continued relapses (Kappos et al. <link href="#brb3362-bib-0055"/>). The side effects of beta‐interferon include flu‐like symptoms, depression, liver enzyme elevation, thyroid abnormalities, leukopenia or anemia, and injection site reactions (Rudick et al. <link href="#brb3362-bib-0088"/>).</p>
+</section>
+<section xml:id="brb3362-sec-0013">
+<title type="main">Glatiramer Acetate</title>
+<p>Glatiramer acetate (GA) or Copolymer 1 is a synthetic complex of four amino acids that mimics myelin basic protein (MBP), one of the autoantigens targeted by the T cells. Due to its structural similarity to MBP, GA blocks the formation of myelin reactive T cells and induces GA‐specific regulatory T‐cell expression and Th2 anti‐inflammatory cytokine production (bystander suppression) (Wolinsky <link href="#brb3362-bib-0106"/>; Rudick et al. <link href="#brb3362-bib-0088"/>; Gran et al. <link href="#brb3362-bib-0045"/>; Dhib‐Jalbut <link href="#brb3362-bib-0027"/>; Ruggieri et al. <link href="#brb3362-bib-0089"/>). The clinical efficacy of GA in terms of reducing relapse rate and MRI lesions is similar to IFN‐<i>β</i>, however, GA has somewhat limited effect on disability progression (Rudick et al. <link href="#brb3362-bib-0088"/>; La Mantia et al. <link href="#brb3362-bib-0060"/>). The side effect profile of GA is, however, more favorable and includes local injection site reactions, post injection reaction (flushing, chest tightness, palpitation, and dyspnea within minutes of injection with spontaneous resolution) and rare lipoatrophy with prolonged use.</p>
+</section>
+<section xml:id="brb3362-sec-0014">
+<title type="main">Natalizumab</title>
+<p>Natalizumab is a humanized monoclonal antibody that binds <i>α</i>4<i>β</i>1‐integrin on lymphocytes blocking their interaction with VCAM‐1 on endothelial cells thereby preventing the transmigration of lymphocytes across the BBB (Ransohoff <link href="#brb3362-bib-0087"/>). Its superior efficacy has been demonstrated in two phase 3 studies with a robust effect on relapse rate reduction and disability progression (Miller et al. <link href="#brb3362-bib-0072"/>; Polman et al. <link href="#brb3362-bib-0083"/>). The major safety concern with natalizumab is progressive multifocal leukoencephalopathy (PML), a serious potentially fatal opportunistic brain infection caused by reactivation of JC virus (Yousry et al. <link href="#brb3362-bib-0111"/>). As of December 2014, 514 cases of PML have been reported worldwide with postmarketing use of natalizumab (TYSABRI [natalizumab] <link href="#brb3362-bib-1002"/>). The overall risk of PML in MS patients with natalizumab use is 3.78 per 1000 with a much higher risk (13/1000) among patients with prolonged duration of therapy (≥24 months), history of prior immunosuppressive therapy, and positive JC virus antibody status (Bloomgren et al. <link href="#brb3362-bib-0013"/>; Information M, <link href="#brb3362-bib-1002"/>). Due to the risk of PML, natalizumab now has a more limited use as a second line drug in patients with breakthrough disease or intolerable side effects with first line therapies.</p>
+</section>
+<section xml:id="brb3362-sec-0015">
+<title type="main">Mitoxantrone</title>
+<p>Mitoxantrone is a synthetic anthracendione antineoplastic agent; its immunomodulatory effects include suppression of T and B lymphocytes and macrophage proliferation. Mitoxantrone is indicated for reducing disability and relapse frequency in patients with worsening relapsing remitting and secondary‐progressive MS, however, its use has been limited due to risk of dose‐related cardiotoxicity and treatment‐related leukemia (Fox <link href="#brb3362-bib-0033"/>).</p>
+</section>
+<section xml:id="brb3362-sec-0016">
+<title type="main">Oral Therapies</title>
+<p>Three new oral medications have recently become available for treatment of relapsing MS: fingolimod, teriflunomide, and dimethylfumarate. The efficacy of these medications has been established in several phase 3 studies with comparable or somewhat better effect (compared to some injectable therapies) on relapse rate reduction, MRI lesions, and disability progression.</p>
+<p><i>Fingolimod</i> is a sphingosine‐1‐phosphate receptor (S1P1) modulator and was the first oral drug approved for treatment of MS. By binding to S1P1 receptor on the T cells, it prevents emigration of activated T cells from lymph nodes thereby limiting their entry into the CNS (Chiba et al. <link href="#brb3362-bib-0019"/>; Pelletier and Hafler <link href="#brb3362-bib-0082"/>). The potential side effects of fingolimod include first dose bradycardia, atrioventricular block, herpes virus infection, macular edema, elevated blood pressure, and a reported cases of PML (Cohen et al. <link href="#brb3362-bib-0021"/>; Kappos et al. <link href="#brb3362-bib-0056"/>; Samson <link href="#brb3362-bib-0090"/>; Calic et al. <link href="#brb3362-bib-0017"/>).</p>
+<p>There have been a total of three reported cases of PML associated with use of fingolimod, two of these occurred in context of prior immunosuppressive therapy, the third most recent case, however, was reported in a patient with no prior immunosuppressive therapy after more than 4 years of fingolimod use (Calic et al. <link href="#brb3362-bib-0017"/>; Case of PML reported in patient treated with Gilenya, <link href="#brb3362-bib-0018"/>). A single case of sudden suspected cardiac death within 24 h of taking first dose of fingolimod was reported in December 2011 (Lindsey et al. <link href="#brb3362-bib-0061"/>). Even though a direct association with the medication could not be established, the US Food and Drug Administration and European regulatory agency released new monitoring guidelines for first dose monitoring and the drug is now contraindicated in patients with history of cardiac disease or stroke and patients on antiarrhythmic medications.</p>
+<p><i>Teriflunomide</i> is an active metabolite of leflunomide (a drug used to treat rheumatoid arthritis) and is an inhibitor of enzyme dihyrdro‐orotate dehydrogenase (DHODH) which interferes with denovo synthesis of pyrimidine in rapidly dividing cells (Oh and O'Connor <link href="#brb3362-bib-0079"/>). Its anti‐inflammatory effect in MS is believed to be mediated by reducing the activity of proliferating T and B lymphocytes. Teriflunomide does not affect the resting or slowly dividing hematopoietic cells which use the alternate DHODH independent “salvage pathway” for pyrimidine synthesis, therefore, preserving the basic homeostatic functions of these cells and immune surveillance (Oh and O'Connor <link href="#brb3362-bib-0079"/>). Leflunomide is converted almost entirely into teriflunomide after absorption and taken at the recommended doses, both drugs result in similar plasma concentration of teriflunomide (AUBAGIO<sup>®</sup> (teriflunomide) Prescibing information. <link href="#brb3362-bib-1102"/>). The short‐term side effects of teriflunomide are relatively mild and include hair loss, headache, diarrhea, and elevated liver enzymes (O'Connor et al. <link href="#brb3362-bib-0078"/>). Reduction in lymphocyte and neutrophil counts, elevated blood pressure, and a single case of latent tuberculosis are some of the other side effects reported (O'Connor et al. <link href="#brb3362-bib-0078"/>; Confavreux et al. <link href="#brb3362-bib-0023"/>). The potential teratogenecity of teriflunomide remains a major concern although several pregnancies reported during its clinical trial did not have any adverse outcome. Nevertheless, strict contraception is recommended to avoid pregnancy and a rapid elimination process is undertaken in women who become pregnant while taking teriflunomide as the drug can remain in the systems for 8 months to 2 years (Confavreux et al. <link href="#brb3362-bib-0023"/>).</p>
+<p><i>Dimethylfumarate (DMF) or BG12</i> is the latest oral therapy to be approved for treatment of MS. Related to fumaric acid ester which has been used for treatment of psoriasis in Germany since 1990s; BG12 is as an enteric coated formulation of DMF with improved GI tolerability. It is hydrolyzed to monomethyl fumarate soon after oral absorption. The mechanism of action of DMF involves inhibition of proinflammatory pathways via activation of nuclear factor erythroid 2‐related factor 2 (Nrf‐2) antioxidant response pathway (Linker et al. <link href="#brb3362-bib-0063"/>). The most common side effect with DMF include nausea, diarrhea, abdominal pain which can be minimized by taking the medication with food and flushing which can be reduced by aspirin (Gold et al. <link href="#brb3362-bib-0043"/>; Fox et al. <link href="#brb3362-bib-0035"/>). Lymphopenia may occur although no increased infection risk was observed in phase 3 studies (Fox et al. <link href="#brb3362-bib-0034"/>; Gold et al. <link href="#brb3362-bib-0043"/>). There have been a few cases of PML reported with use of fumaric acid ester formulations in patients with psoriasis with pronounced prolonged lymphopenia being the major risk factor (Ermis et al. <link href="#brb3362-bib-0028"/>; van Oosten et al. <link href="#brb3362-bib-0080"/>; Sweetser et al. <link href="#brb3362-bib-0097"/>). There has been a recent report of a fatal case of PML in a patient with multiple sclerosis treated with dimethyl fumarate (FDA Drug Safety Communication, <link href="#brb3362-bib-0030"/>). In response to these cases of PML, JC virus antibody testing and close monitoring for lymphopenia has been suggested in patients initiating DMF therapy to improve surveillance.</p>
+<p>The oral medications are currently considered second line due to a greater risk of serious side effects making their safety profile less favorable in patients with early and mild disease. The main safety concern with oral medications is the potential for prolonged immunosuppression increasing the risk of serious infections and also malignancies due to altered immune surveillance. A simplified treatment algorithm for patients with RRMS and CIS is outlined in Figure <link href="#brb3362-fig-0003"/>.</p>
+<figure xml:id="brb3362-fig-0003">
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:21623279:media:brb3362:brb3362-fig-0003"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webHiRes" href="image_m/brb3362-fig-0003-m.png"/>
+<mediaResource alt="image" mimeType="image/png" rendition="webOriginal" href="image_n/brb3362-fig-0003.png"/>
+<mediaResource alt="image" mimeType="image/gif" rendition="webLoRes" href="image_t/brb3362-fig-0003-t.gif"/>
+</mediaResourceGroup>
+<caption>Treatment approach to patients with <fc>RRMS</fc> and <fc>CIS</fc>.</caption>
+</figure>
+<p>In summary, there has been significant progress in the field of MS with better understanding of immunopathogenesis, wider availability and use of MRI, and availability of disease modifying therapies. There are currently a wide range of therapeutic options to treat MS including the recently approved oral drugs. However, balancing the safety and efficacy of these drugs remains a challenge due to serious side effects associated with more effective therapies. Given the heterogeneity of MS, personalized treatment by recognizing specific genetic markers in individual patients has been proposed. Also, there is an urgent need for novel therapeutic agents that can prevent or minimize the neuronal and/or axonal degeneration occurring in patients with progressive MS.</p>
+</section>
+<section xml:id="brb3362-sec-0017">
+<title type="main">Conflict of Interest</title>
+<p>None declared.</p>
+</section>
+<bibliography cited="yes" style="nameDate" xml:id="brb3362-bibl-0001">
+<title type="main">References</title>
+<bib xml:id="brb3362-bib-0002">
+<citation type="journal" xml:id="brb3362-cit-0002"><author><familyName>Aichele</familyName>, <givenNames>P.</givenNames></author>, <author><givenNames>M. F.</givenNames> <familyName>Bachmann</familyName></author>, <author><givenNames>H.</givenNames> <familyName>Hengartner</familyName></author>, and <author><givenNames>R. M.</givenNames> <familyName>Zinkernagel</familyName></author>. <pubYear year="1996">1996</pubYear>. <articleTitle>Immunopathology or organ‐specific autoimmunity as a consequence of virus infection</articleTitle>. <journalTitle>Immunol. Rev.</journalTitle> <vol>152</vol>:<pageFirst>21</pageFirst>–<pageLast>45</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0003">
+<citation type="journal" xml:id="brb3362-cit-0003"><author><familyName>Ascherio</familyName>, <givenNames>A.</givenNames></author> <pubYear year="2013">2013</pubYear>. <articleTitle>Environmental factors in multiple sclerosis</articleTitle>. <journalTitle>Expert Rev. Neurother.</journalTitle> <vol>13</vol>:<pageFirst>3</pageFirst>–<pageLast>9</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0004">
+<citation type="journal" xml:id="brb3362-cit-0004"><author><familyName>Ascherio</familyName>, <givenNames>A.</givenNames></author>, and <author><givenNames>K. L.</givenNames> <familyName>Munger</familyName></author>. <pubYear year="2007">2007a</pubYear>. <articleTitle>Environmental risk factors for multiple sclerosis. Part I: the role of infection</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>61</vol>:<pageFirst>288</pageFirst>–<pageLast>299</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0005">
+<citation type="journal" xml:id="brb3362-cit-0005"><author><familyName>Ascherio</familyName>, <givenNames>A.</givenNames></author>, and <author><givenNames>K. L.</givenNames> <familyName>Munger</familyName></author>. <pubYear year="2007">2007b</pubYear>. <articleTitle>Environmental risk factors for multiple sclerosis. Part II: noninfectious factors</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>61</vol>:<pageFirst>504</pageFirst>–<pageLast>513</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0006">
+<citation type="journal" xml:id="brb3362-cit-0006"><author><familyName>Ascherio</familyName>, <givenNames>A.</givenNames></author>, <author><givenNames>K. L.</givenNames> <familyName>Munger</familyName></author>, and <author><givenNames>K. C.</givenNames> <familyName>Simon</familyName></author>. <pubYear year="2010">2010</pubYear>. <articleTitle>Vitamin D and multiple sclerosis</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>9</vol>:<pageFirst>599</pageFirst>–<pageLast>612</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-1102">
+<citation type="other" xml:id="brb3362-cit-1102"><groupName>AUBAGIO<sup>®</sup> (teriflunomide) Prescibing information</groupName>. <pubYear year="2014">2014</pubYear>. Genzyme Corp. (Accessed July 23, 2014).</citation>
+</bib>
+<bib xml:id="brb3362-bib-0007">
+<citation type="journal" xml:id="brb3362-cit-0007"><author><familyName>Awad</familyName>, <givenNames>A.</givenNames></author>, <author><givenNames>B.</givenNames> <familyName>Hemmer</familyName></author>, <author><givenNames>H. P.</givenNames> <familyName>Hartung</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Kieseier</familyName></author>, <author><givenNames>J. L.</givenNames> <familyName>Bennett</familyName></author>, and <author><givenNames>O.</givenNames> <familyName>Stuve</familyName></author>. <pubYear year="2010">2010</pubYear>. <articleTitle>Analyses of cerebrospinal fluid in the diagnosis and monitoring of multiple sclerosis</articleTitle>. <journalTitle>J. Neuroimmunol.</journalTitle> <vol>219</vol>:<pageFirst>1</pageFirst>–<pageLast>7</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0008">
+<citation type="journal" xml:id="brb3362-cit-0008"><author><familyName>Barcellos</familyName>, <givenNames>L. F.</givenNames></author>, <author><givenNames>J. R.</givenNames> <familyName>Oksenberg</familyName></author>, <author><givenNames>A. B.</givenNames> <familyName>Begovich</familyName></author>, <author><givenNames>E. R.</givenNames> <familyName>Martin</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Schmidt</familyName></author>, <author><givenNames>E.</givenNames> <familyName>Vittinghoff</familyName></author>, et al. <pubYear year="2003">2003</pubYear>. <articleTitle>HLA‐DR2 dose effect on susceptibility to multiple sclerosis and influence on disease course</articleTitle>. <journalTitle>Am. J. Hum. Genet.</journalTitle> <vol>72</vol>:<pageFirst>710</pageFirst>–<pageLast>716</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0009">
+<citation type="journal" xml:id="brb3362-cit-0009"><author><familyName>Barkhof</familyName>, <givenNames>F.</givenNames></author>, <author><givenNames>W.</givenNames> <familyName>Bruck</familyName></author>, <author><givenNames>C. J.</givenNames> <familyName>De Groot</familyName></author>, <author><givenNames>E.</givenNames> <familyName>Bergers</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Hulshof</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Geurts</familyName></author>, et al. <pubYear year="2003">2003</pubYear>. <articleTitle>Remyelinated lesions in multiple sclerosis: magnetic resonance image appearance</articleTitle>. <journalTitle>Arch. Neurol.</journalTitle> <vol>60</vol>:<pageFirst>1073</pageFirst>–<pageLast>1081</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0010">
+<citation type="journal" xml:id="brb3362-cit-0010"><author><familyName>Barnett</familyName>, <givenNames>M. H.</givenNames></author>, and <author><givenNames>J. W.</givenNames> <familyName>Prineas</familyName></author>. <pubYear year="2004">2004</pubYear>. <articleTitle>Relapsing and remitting multiple sclerosis: pathology of the newly forming lesion</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>55</vol>:<pageFirst>458</pageFirst>–<pageLast>468</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0011">
+<citation type="journal" xml:id="brb3362-cit-0011"><author><familyName>Batoulis</familyName>, <givenNames>H.</givenNames></author>, <author><givenNames>K.</givenNames> <familyName>Addicks</familyName></author>, and <author><givenNames>S.</givenNames> <familyName>Kuerten</familyName></author>. <pubYear year="2010">2010</pubYear>. <articleTitle>Emerging concepts in autoimmune encephalomyelitis beyond the CD4/T(H)1 paradigm</articleTitle>. <journalTitle>Annals Anat.</journalTitle> <vol>192</vol>:<pageFirst>179</pageFirst>–<pageLast>193</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0012">
+<citation type="journal" xml:id="brb3362-cit-0012"><author><familyName>Berkovich</familyName>, <givenNames>R.</givenNames></author> <pubYear year="2013">2013</pubYear>. <articleTitle>Treatment of acute relapses in multiple sclerosis</articleTitle>. <journalTitle>Neurotherapeutics</journalTitle> <vol>10</vol>:<pageFirst>97</pageFirst>–<pageLast>105</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0013">
+<citation type="journal" xml:id="brb3362-cit-0013"><author><familyName>Bloomgren</familyName>, <givenNames>G.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Richman</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Hotermans</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Subramanyam</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Goelz</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Natarajan</familyName></author>, et al. <pubYear year="2012">2012</pubYear>. <articleTitle>Risk of natalizumab‐associated progressive multifocal leukoencephalopathy</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>366</vol>:<pageFirst>1870</pageFirst>–<pageLast>1880</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0014">
+<citation type="journal" xml:id="brb3362-cit-0014"><author><familyName>Bogdan</familyName>, <givenNames>F. P.</givenNames></author>, <author><givenNames>I.</givenNames> <familyName>Pirko</familyName></author>, <author><givenNames>F. C.</givenNames> <familyName>Lucchinetti</familyName></author>, <pubYear year="2013">2013</pubYear>. <articleTitle>Pathology of multiple sclerosis: Where do we stand?</articleTitle>. <journalTitle>Cont. Lifelong Learn. Neurol.</journalTitle> <vol>19</vol>:<pageFirst>901</pageFirst>–<pageLast>921</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0015">
+<citation type="journal" xml:id="brb3362-cit-0015"><author><familyName>Bruck</familyName>, <givenNames>W.</givenNames></author>, and <author><givenNames>C.</givenNames> <familyName>Stadelmann</familyName></author>. <pubYear year="2005">2005</pubYear>. <articleTitle>The spectrum of multiple sclerosis: new lessons from pathology</articleTitle>. <journalTitle>Curr. Opin. Neurol.</journalTitle> <vol>18</vol>:<pageFirst>221</pageFirst>–<pageLast>224</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0016">
+<citation type="journal" xml:id="brb3362-cit-0016"><author><familyName>Bruck</familyName>, <givenNames>W.</givenNames></author>, <author><givenNames>P.</givenNames> <familyName>Porada</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Poser</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Rieckmann</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Hanefeld</familyName></author>, <author><givenNames>H. A.</givenNames> <familyName>Kretzschmar</familyName></author>, et al. <pubYear year="1995">1995</pubYear>. <articleTitle>Monocyte/macrophage differentiation in early multiple sclerosis lesions</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>38</vol>:<pageFirst>788</pageFirst>–<pageLast>796</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0017">
+<citation type="journal" xml:id="brb3362-cit-0017"><author><familyName>Calic</familyName>, <givenNames>Z.</givenNames></author>, <author><givenNames>C.</givenNames> <familyName>Cappelen‐Smith</familyName></author>, <author><givenNames>S. J.</givenNames> <familyName>Hodgkinson</familyName></author>, <author><givenNames>A.</givenNames> <familyName>McDougall</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Cuganesan</familyName></author>, and <author><givenNames>B. J.</givenNames> <familyName>Brew</familyName></author>. <pubYear year="2015">2015</pubYear>. <articleTitle>Treatment of progressive multifocal leukoencephalopathy‐immune reconstitution inflammatory syndrome with intravenous immunoglobulin in a patient with multiple sclerosis treated with fingolimod after discontinuation of natalizumab</articleTitle>. <journalTitle>J. Clin. Neurosci.</journalTitle> <vol>22</vol>:<pageFirst>598</pageFirst>–<pageLast>600</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0018">
+<citation type="other" xml:id="brb3362-cit-0018"><groupName>Case of PML reported in patient treated with Gilenya</groupName>®. <url href="https://beta.mssociety.ca/research-news/article/case-of-pml-reported-in-patient-treated-with-gilenya">https://beta.mssociety.ca/research-news/article/case-of-pml-reported-in-patient-treated-with-gilenya</url>, <pubYear year="2015">2015</pubYear>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0019">
+<citation type="journal" xml:id="brb3362-cit-0019"><author><familyName>Chiba</familyName>, <givenNames>K.</givenNames></author>, <author><givenNames>Y.</givenNames> <familyName>Yanagawa</familyName></author>, <author><givenNames>Y.</givenNames> <familyName>Masubuchi</familyName></author>, <author><givenNames>H.</givenNames> <familyName>Kataoka</familyName></author>, <author><givenNames>T.</givenNames> <familyName>Kawaguchi</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Ohtsuki</familyName></author>, et al. <pubYear year="1998">1998</pubYear>. <articleTitle>FTY720, a novel immunosuppressant, induces sequestration of circulating mature lymphocytes by acceleration of lymphocyte homing in rats. I. FTY720 selectively decreases the number of circulating mature lymphocytes by acceleration of lymphocyte homing</articleTitle>. <journalTitle>J. Immunol.</journalTitle> <vol>160</vol>:<pageFirst>5037</pageFirst>–<pageLast>5044</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0020">
+<citation type="journal" xml:id="brb3362-cit-0020"><author><familyName>Cifelli</familyName>, <givenNames>A.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>Arridge</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Jezzard</familyName></author>, <author><givenNames>M. M.</givenNames> <familyName>Esiri</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Palace</familyName></author>, and <author><givenNames>P. M.</givenNames> <familyName>Matthews</familyName></author>. <pubYear year="2002">2002</pubYear>. <articleTitle>Thalamic neurodegeneration in multiple sclerosis</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>52</vol>:<pageFirst>650</pageFirst>–<pageLast>653</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0021">
+<citation type="journal" xml:id="brb3362-cit-0021"><author><familyName>Cohen</familyName>, <givenNames>J. A.</givenNames></author>, <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Comi</familyName></author>, <author><givenNames>H. P.</givenNames> <familyName>Hartung</familyName></author>, <author><givenNames>B. O.</givenNames> <familyName>Khatri</familyName></author>, <author><givenNames>X.</givenNames> <familyName>Montalban</familyName></author>, et al. <pubYear year="2010">2010</pubYear>. <articleTitle>Oral fingolimod or intramuscular interferon for relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>362</vol>:<pageFirst>402</pageFirst>–<pageLast>415</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0022">
+<citation type="journal" xml:id="brb3362-cit-0022"><author><familyName>Compston</familyName>, <givenNames>A.</givenNames></author>, and <author><givenNames>A.</givenNames> <familyName>Coles</familyName></author>. <pubYear year="2008">2008</pubYear>. <articleTitle>Multiple sclerosis</articleTitle>. <journalTitle>Lancet</journalTitle> <vol>372</vol>:<pageFirst>1502</pageFirst>–<pageLast>1517</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0023">
+<citation type="journal" xml:id="brb3362-cit-0023"><author><familyName>Confavreux</familyName>, <givenNames>C.</givenNames></author>, <author><givenNames>P.</givenNames> <familyName>O'Connor</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Comi</familyName></author>, <author><givenNames>M. S.</givenNames> <familyName>Freedman</familyName></author>, <author><givenNames>A. E.</givenNames> <familyName>Miller</familyName></author>, <author><givenNames>T. P.</givenNames> <familyName>Olsson</familyName></author>, et al. <pubYear year="2014">2014</pubYear>. <articleTitle>Oral teriflunomide for patients with relapsing multiple sclerosis (TOWER): a randomised, double‐blind, placebo‐controlled, phase 3 trial</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>13</vol>:<pageFirst>247</pageFirst>–<pageLast>256</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0024">
+<citation type="journal" xml:id="brb3362-cit-0024"><author><familyName>Conradi</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>U.</givenNames> <familyName>Malzahn</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Schroter</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Paul</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Quill</familyName></author>, <author><givenNames>E.</givenNames> <familyName>Spruth</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Environmental factors in early childhood are associated with multiple sclerosis: a case‐control study</articleTitle>. <journalTitle>BMC Neurol.</journalTitle> <vol>11</vol>:<pageFirst>123</pageFirst>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0025">
+<citation type="journal" xml:id="brb3362-cit-0025"><author><familyName>Correale</familyName>, <givenNames>J.</givenNames></author>, <author><givenNames>M. C.</givenNames> <familyName>Ysrraelit</familyName></author>, and <author><givenNames>M. I.</givenNames> <familyName>Gaitan</familyName></author>. <pubYear year="2009">2009</pubYear>. <articleTitle>Immunomodulatory effects of Vitamin D in multiple sclerosis</articleTitle>. <journalTitle>Brain</journalTitle> <vol>132</vol>:<pageFirst>1146</pageFirst>–<pageLast>1160</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0026">
+<citation type="journal" xml:id="brb3362-cit-0026"><author><familyName>Damal</familyName>, <givenNames>K.</givenNames></author>, <author><givenNames>E.</givenNames> <familyName>Stoker</familyName></author>, and <author><givenNames>J. F.</givenNames> <familyName>Foley</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>Optimizing therapeutics in the management of patients with multiple sclerosis: a review of drug efficacy, dosing, and mechanisms of action</articleTitle>. <journalTitle>Biologics</journalTitle> <vol>7</vol>:<pageFirst>247</pageFirst>–<pageLast>258</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0027">
+<citation type="journal" xml:id="brb3362-cit-0027"><author><familyName>Dhib‐Jalbut</familyName>, <givenNames>S.</givenNames></author> <pubYear year="2002">2002</pubYear>. <articleTitle>Mechanisms of action of interferons and glatiramer acetate in multiple sclerosis</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>58</vol>:<pageFirst>S3</pageFirst>–<pageLast>S9</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0028">
+<citation type="journal" xml:id="brb3362-cit-0028"><author><familyName>Ermis</familyName>, <givenNames>U.</givenNames></author>, <author><givenNames>J.</givenNames> <familyName>Weis</familyName></author>, and <author><givenNames>J. B.</givenNames> <familyName>Schulz</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>PML in a patient treated with fumaric acid</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>368</vol>:<pageFirst>1657</pageFirst>–<pageLast>1658</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0029">
+<citation type="journal" xml:id="brb3362-cit-0029"><author><familyName>Farez</familyName>, <givenNames>M. F.</givenNames></author>, <author><givenNames>M. P.</givenNames> <familyName>Fiol</familyName></author>, <author><givenNames>M. I.</givenNames> <familyName>Gaitan</familyName></author>, <author><givenNames>F. J.</givenNames> <familyName>Quintana</familyName></author>, and <author><givenNames>J.</givenNames> <familyName>Correale</familyName></author>. <pubYear year="2015">2015</pubYear>. <articleTitle>Sodium intake is associated with increased disease activity in multiple sclerosis</articleTitle>. <journalTitle>J. Neurol. Neurosurg. Psychiatry</journalTitle> <vol>86</vol>:<pageFirst>26</pageFirst>–<pageLast>31</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0030">
+<citation type="other" xml:id="brb3362-cit-0030"><groupName>FDA Drug Safety Communication</groupName>: <otherTitle>FDA warns about case of rare brain infection PML with MS drug Tecfidera (dimethyl fumarate)</otherTitle>. <url href="http://www.fda.gov/Drugs/DrugSafety/ucm424625.htm">http://www.fda.gov/Drugs/DrugSafety/ucm424625.htm</url>, <pubYear year="2014">2014</pubYear>. (Accessed January 8, 2015).</citation>
+</bib>
+<bib xml:id="brb3362-bib-0031">
+<citation type="journal" xml:id="brb3362-cit-0031"><author><familyName>Filippi</familyName>, <givenNames>M.</givenNames></author>, <author><givenNames>M. A.</givenNames> <familyName>Horsfield</familyName></author>, <author><givenNames>S. P.</givenNames> <familyName>Morrissey</familyName></author>, <author><givenNames>D. G.</givenNames> <familyName>MacManus</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Rudge</familyName></author>, <author><givenNames>W. I.</givenNames> <familyName>McDonald</familyName></author>, et al. <pubYear year="1994">1994</pubYear>. <articleTitle>Quantitative brain MRI lesion load predicts the course of clinically isolated syndromes suggestive of multiple sclerosis</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>44</vol>:<pageFirst>635</pageFirst>–<pageLast>641</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0032">
+<citation type="journal" xml:id="brb3362-cit-0032"><author><familyName>Filippini</familyName>, <givenNames>G.</givenNames></author>, <author><givenNames>C.</givenNames> <familyName>Del Giovane</familyName></author>, <author><givenNames>L.</givenNames> <familyName>Vacchi</familyName></author>, <author><givenNames>R.</givenNames> <familyName>D'Amico</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Di Pietrantonj</familyName></author>, <author><givenNames>D.</givenNames> <familyName>Beecher</familyName></author>, et al. <pubYear year="2013">2013</pubYear>. <articleTitle>Immunomodulators and immunosuppressants for multiple sclerosis: a network meta‐analysis</articleTitle>. <journalTitle>Cochrane Database Syst. Rev.</journalTitle> <vol>6</vol>:<pageFirst>CD008933</pageFirst>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0033">
+<citation type="journal" xml:id="brb3362-cit-0033"><author><familyName>Fox</familyName>, <givenNames>E. J.</givenNames></author> <pubYear year="2006">2006</pubYear>. <articleTitle>Management of worsening multiple sclerosis with mitoxantrone: a review</articleTitle>. <journalTitle>Clin. Ther.</journalTitle> <vol>28</vol>:<pageFirst>461</pageFirst>–<pageLast>474</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0034">
+<citation type="journal" xml:id="brb3362-cit-0034"><author><familyName>Fox</familyName>, <givenNames>R. J.</givenNames></author>, <author><givenNames>D. H.</givenNames> <familyName>Miller</familyName></author>, <author><givenNames>J. T.</givenNames> <familyName>Phillips</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Hutchinson</familyName></author>, <author><givenNames>E.</givenNames> <familyName>Havrdova</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Kita</familyName></author>, et al. <pubYear year="2012">2012</pubYear>. <articleTitle>Placebo‐controlled phase 3 study of oral BG‐12 or glatiramer in multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>367</vol>:<pageFirst>1087</pageFirst>–<pageLast>1097</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0035">
+<citation type="journal" xml:id="brb3362-cit-0035"><author><familyName>Fox</familyName>, <givenNames>R. J.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>Kita</familyName></author>, <author><givenNames>S. L.</givenNames> <familyName>Cohan</familyName></author>, <author><givenNames>L. J.</givenNames> <familyName>Henson</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Zambrano</familyName></author>, <author><givenNames>R. H.</givenNames> <familyName>Scannevin</familyName></author>, et al. <pubYear year="2014">2014</pubYear>. <articleTitle>BG‐12 (dimethyl fumarate): a review of mechanism of action, efficacy, and safety</articleTitle>. <journalTitle>Curr. Med. Res. Opin.</journalTitle> <vol>30</vol>:<pageFirst>251</pageFirst>–<pageLast>262</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0036">
+<citation type="journal" xml:id="brb3362-cit-0036"><author><familyName>Fragoso</familyName>, <givenNames>Y. D.</givenNames></author> <pubYear year="2014">2014</pubYear>. <articleTitle>Modifiable environmental factors in multiple sclerosis</articleTitle>. <journalTitle>Arq. Neuropsiquiatr.</journalTitle> <vol>72</vol>:<pageFirst>889</pageFirst>–<pageLast>894</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0037">
+<citation type="journal" xml:id="brb3362-cit-0037"><author><familyName>Frischer</familyName>, <givenNames>J. M.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Bramow</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Dal‐Bianco</familyName></author>, <author><givenNames>C. F.</givenNames> <familyName>Lucchinetti</familyName></author>, <author><givenNames>H.</givenNames> <familyName>Rauschka</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Schmidbauer</familyName></author>, et al. <pubYear year="2009">2009</pubYear>. <articleTitle>The relation between inflammation and neurodegeneration in multiple sclerosis brains</articleTitle>. <journalTitle>Brain</journalTitle> <vol>132</vol>:<pageFirst>1175</pageFirst>–<pageLast>1189</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0038">
+<citation type="journal" xml:id="brb3362-cit-0038"><author><familyName>Frohman</familyName>, <givenNames>E. M.</givenNames></author>, <author><givenNames>M. K.</givenNames> <familyName>Racke</familyName></author>, and <author><givenNames>C. S.</givenNames> <familyName>Raine</familyName></author>. <pubYear year="2006">2006</pubYear>. <articleTitle>Multiple sclerosis–the plaque and its pathogenesis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>354</vol>:<pageFirst>942</pageFirst>–<pageLast>955</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0039">
+<citation type="journal" xml:id="brb3362-cit-0039"><author><familyName>Fujinami</familyName>, <givenNames>R. S.</givenNames></author>, and <author><givenNames>M. B.</givenNames> <familyName>Oldstone</familyName></author>. <pubYear year="1985">1985</pubYear>. <articleTitle>Amino acid homology between the encephalitogenic site of myelin basic protein and virus: mechanism for autoimmunity</articleTitle>. <journalTitle>Science</journalTitle> <vol>230</vol>:<pageFirst>1043</pageFirst>–<pageLast>1045</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0040">
+<citation type="journal" xml:id="brb3362-cit-0040"><author><familyName>Geurts</familyName>, <givenNames>J. J.</givenNames></author>, and <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>. <pubYear year="2008">2008</pubYear>. <articleTitle>Grey matter pathology in multiple sclerosis</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>7</vol>:<pageFirst>841</pageFirst>–<pageLast>851</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0041">
+<citation type="journal" xml:id="brb3362-cit-0041"><author><familyName>Gold</familyName>, <givenNames>R.</givenNames></author>, and <author><givenNames>J. S.</givenNames> <familyName>Wolinsky</familyName></author>. <pubYear year="2011">2011</pubYear>. <articleTitle>Pathophysiology of multiple sclerosis and the place of teriflunomide</articleTitle>. <journalTitle>Acta Neurol. Scand.</journalTitle> <vol>124</vol>:<pageFirst>75</pageFirst>–<pageLast>84</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0042">
+<citation type="journal" xml:id="brb3362-cit-0042"><author><familyName>Gold</familyName>, <givenNames>R.</givenNames></author>, <author><givenNames>C.</givenNames> <familyName>Linington</familyName></author>, and <author><givenNames>H.</givenNames> <familyName>Lassmann</familyName></author>. <pubYear year="2006">2006</pubYear>. <articleTitle>Understanding pathogenesis and therapy of multiple sclerosis via animal models: 70 years of merits and culprits in experimental autoimmune encephalomyelitis research</articleTitle>. <journalTitle>Brain</journalTitle> <vol>129</vol>:<pageFirst>1953</pageFirst>–<pageLast>1971</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0043">
+<citation type="journal" xml:id="brb3362-cit-0043"><author><familyName>Gold</familyName>, <givenNames>R.</givenNames></author>, <author><givenNames>L.</givenNames> <familyName>Kappos</familyName></author>, <author><givenNames>D. L.</givenNames> <familyName>Arnold</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Bar‐Or</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Giovannoni</familyName></author>, <author><givenNames>K.</givenNames> <familyName>Selmaj</familyName></author>, et al. <pubYear year="2012">2012</pubYear>. <articleTitle>Placebo‐controlled phase 3 study of oral BG‐12 for relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>367</vol>:<pageFirst>1098</pageFirst>–<pageLast>1107</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0044">
+<citation type="journal" xml:id="brb3362-cit-0044"><author><familyName>Gran</familyName>, <givenNames>B.</givenNames></author>, <author><givenNames>B.</givenNames> <familyName>Hemmer</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Vergelli</familyName></author>, <author><givenNames>H. F.</givenNames> <familyName>McFarland</familyName></author>, and <author><givenNames>R.</givenNames> <familyName>Martin</familyName></author>. <pubYear year="1999">1999</pubYear>. <articleTitle>Molecular mimicry and multiple sclerosis: degenerate T‐cell recognition and the induction of autoimmunity</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>45</vol>:<pageFirst>559</pageFirst>–<pageLast>567</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0045">
+<citation type="journal" xml:id="brb3362-cit-0045"><author><familyName>Gran</familyName>, <givenNames>B.</givenNames></author>, <author><givenNames>L. R.</givenNames> <familyName>Tranquill</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Chen</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Bielekova</familyName></author>, <author><givenNames>W.</givenNames> <familyName>Zhou</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Dhib‐Jalbut</familyName></author>, et al. <pubYear year="2000">2000</pubYear>. <articleTitle>Mechanisms of immunomodulation by glatiramer acetate</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>55</vol>:<pageFirst>1704</pageFirst>–<pageLast>1714</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0046">
+<citation type="journal" xml:id="brb3362-cit-0046"><author><familyName>Hafler</familyName>, <givenNames>D. A.</givenNames></author>, <author><givenNames>J. M.</givenNames> <familyName>Slavik</familyName></author>, <author><givenNames>D. E.</givenNames> <familyName>Anderson</familyName></author>, <author><givenNames>K. C.</givenNames> <familyName>O'Connor</familyName></author>, <author><givenNames>P.</givenNames> <familyNamePrefix>De</familyNamePrefix> <familyName>Jager</familyName></author>, and <author><givenNames>C.</givenNames> <familyName>Baecher‐Allan</familyName></author>. <pubYear year="2005">2005</pubYear>. <articleTitle>Multiple sclerosis</articleTitle>. <journalTitle>Immunol. Rev.</journalTitle> <vol>204</vol>:<pageFirst>208</pageFirst>–<pageLast>231</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0047">
+<citation type="journal" xml:id="brb3362-cit-0047"><author><familyName>Hafler</familyName>, <givenNames>D. A.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Compston</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Sawcer</familyName></author>, <author><givenNames>E. S.</givenNames> <familyName>Lander</familyName></author>, <author><givenNames>M. J.</givenNames> <familyName>Daly</familyName></author>, <author><givenNames>P. L.</givenNames> <familyName>De Jager</familyName></author>, et al. <pubYear year="2007">2007</pubYear>. <articleTitle>Risk alleles for multiple sclerosis identified by a genome wide study</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>357</vol>:<pageFirst>851</pageFirst>–<pageLast>862</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0048">
+<citation type="journal" xml:id="brb3362-cit-0048"><author><familyName>Hauser</familyName>, <givenNames>S. L.</givenNames></author>, <author><givenNames>A. K.</givenNames> <familyName>Bhan</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Gilles</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Kemp</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Kerr</familyName></author>, and <author><givenNames>H. L.</givenNames> <familyName>Weiner</familyName></author>. <pubYear year="1986">1986</pubYear>. <articleTitle>Immunohistochemical analysis of the cellular infiltrate in multiple sclerosis lesions</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>19</vol>:<pageFirst>578</pageFirst>–<pageLast>587</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0049">
+<citation type="journal" xml:id="brb3362-cit-0049"><author><familyName>Hemmer</familyName>, <givenNames>B.</givenNames></author>, <author><givenNames>J. J.</givenNames> <familyName>Archelos</familyName></author>, and <author><givenNames>H. P.</givenNames> <familyName>Hartung</familyName></author>. <pubYear year="2002">2002</pubYear>. <articleTitle>New concepts in the immunopathogenesis of multiple sclerosis</articleTitle>. <journalTitle>Nat. Rev. Neurosci.</journalTitle> <vol>3</vol>:<pageFirst>291</pageFirst>–<pageLast>301</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0050">
+<citation type="journal" xml:id="brb3362-cit-0050"><author><familyName>Howell</familyName>, <givenNames>O. W.</givenNames></author>, <author><givenNames>C. A.</givenNames> <familyName>Reeves</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Nicholas</familyName></author>, <author><givenNames>D.</givenNames> <familyName>Carassiti</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Radotra</familyName></author>, <author><givenNames>S. M.</givenNames> <familyName>Gentleman</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Meningeal inflammation is widespread and linked to cortical pathology in multiple sclerosis</articleTitle>. <journalTitle>Brain</journalTitle> <vol>134</vol>:<pageFirst>2755</pageFirst>–<pageLast>2771</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0052">
+<citation type="journal" xml:id="brb3362-cit-0052"><author><familyName>Ingle</familyName>, <givenNames>G. T.</givenNames></author>, <author><givenNames>J.</givenNames> <familyName>Sastre‐Garriga</familyName></author>, <author><givenNames>D. H.</givenNames> <familyName>Miller</familyName></author>, and <author><givenNames>A. J.</givenNames> <familyName>Thompson</familyName></author>. <pubYear year="2005">2005</pubYear>. <articleTitle>Is inflammation important in early PPMS? a longitudinal MRI study</articleTitle>. <journalTitle>J. Neurol. Neurosurg. Psychiatry</journalTitle> <vol>76</vol>:<pageFirst>1255</pageFirst>–<pageLast>1258</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0053">
+<citation type="journal" xml:id="brb3362-cit-0053"><author><familyName>Inglese</familyName>, <givenNames>M.</givenNames></author> <pubYear year="2006">2006</pubYear>. <articleTitle>Multiple sclerosis: new insights and trends</articleTitle>. <journalTitle>AJNR Am. J. Neuroradiol.</journalTitle> <vol>27</vol>:<pageFirst>954</pageFirst>–<pageLast>957</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0054">
+<citation type="journal" xml:id="brb3362-cit-0054"><author><familyName>Kantarci</familyName>, <givenNames>O. H.</givenNames></author> <pubYear year="2008">2008</pubYear>. <articleTitle>Genetics and natural history of multiple sclerosis</articleTitle>. <journalTitle>Semin. Neurol.</journalTitle> <vol>28</vol>:<pageFirst>7</pageFirst>–<pageLast>16</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0055">
+<citation type="journal" xml:id="brb3362-cit-0055"><author><familyName>Kappos</familyName>, <givenNames>L.</givenNames></author>, <author><givenNames>B.</givenNames> <familyName>Weinshenker</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Pozzilli</familyName></author>, <author><givenNames>A. J.</givenNames> <familyName>Thompson</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Dahlke</familyName></author>, <author><givenNames>K.</givenNames> <familyName>Beckmann</familyName></author>, et al. <pubYear year="2004">2004</pubYear>. <articleTitle>Interferon beta‐1b in secondary progressive MS: a combined analysis of the two trials</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>63</vol>:<pageFirst>1779</pageFirst>–<pageLast>1787</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0056">
+<citation type="journal" xml:id="brb3362-cit-0056"><author><familyName>Kappos</familyName>, <givenNames>L.</givenNames></author>, <author><givenNames>E. W.</givenNames> <familyName>Radue</familyName></author>, <author><givenNames>P.</givenNames> <familyName>O'Connor</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Polman</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Hohlfeld</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Calabresi</familyName></author>, et al. <pubYear year="2010">2010</pubYear>. <articleTitle>A placebo‐controlled trial of oral fingolimod in relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>362</vol>:<pageFirst>387</pageFirst>–<pageLast>401</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0057">
+<citation type="journal" xml:id="brb3362-cit-0057"><author><familyName>Karussis</familyName>, <givenNames>D.</givenNames></author> <pubYear year="2014">2014</pubYear>. <articleTitle>The diagnosis of multiple sclerosis and the various related demyelinating syndromes: a critical review</articleTitle>. <journalTitle>J. Autoimmun.</journalTitle> <vol>48–49</vol>:<pageFirst>134</pageFirst>–<pageLast>142</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0058">
+<citation type="journal" xml:id="brb3362-cit-0058"><author><familyName>Kister</familyName>, <givenNames>I.</givenNames></author>, <author><givenNames>E.</givenNames> <familyName>Chamot</familyName></author>, <author><givenNames>A. R.</givenNames> <familyName>Salter</familyName></author>, <author><givenNames>G. R.</givenNames> <familyName>Cutter</familyName></author>, <author><givenNames>T. E.</givenNames> <familyName>Bacon</familyName></author>, and <author><givenNames>J.</givenNames> <familyName>Herbert</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>Disability in multiple sclerosis: a reference for patients and clinicians</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>80</vol>:<pageFirst>1018</pageFirst>–<pageLast>1024</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0059">
+<citation type="journal" xml:id="brb3362-cit-0059"><author><familyName>Kleinewietfeld</familyName>, <givenNames>M.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Manzel</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Titze</familyName></author>, <author><givenNames>H.</givenNames> <familyName>Kvakan</familyName></author>, <author><givenNames>N.</givenNames> <familyName>Yosef</familyName></author>, <author><givenNames>R. A.</givenNames> <familyName>Linker</familyName></author>, et al. <pubYear year="2013">2013</pubYear>. <articleTitle>Sodium chloride drives autoimmune disease by the induction of pathogenic TH17 cells</articleTitle>. <journalTitle>Nature</journalTitle> <vol>496</vol>:<pageFirst>518</pageFirst>–<pageLast>522</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0060">
+<citation type="journal" xml:id="brb3362-cit-0060"><author><familyName>La Mantia</familyName>, <givenNames>L.</givenNames></author>, <author><givenNames>L. M.</givenNames> <familyName>Munari</familyName></author>, and <author><givenNames>R.</givenNames> <familyName>Lovati</familyName></author>. <pubYear year="2010">2010</pubYear>. <articleTitle>Glatiramer acetate for multiple sclerosis</articleTitle>. <journalTitle>Cochrane Database Syst. Rev.</journalTitle> <pageFirst>CD004678</pageFirst>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0061">
+<citation type="journal" xml:id="brb3362-cit-0061"><author><familyName>Lindsey</familyName>, <givenNames>J. W.</givenNames></author>, <author><givenNames>K.</givenNames> <familyName>Haden‐Pinneri</familyName></author>, <author><givenNames>N. B.</givenNames> <familyName>Memon</familyName></author>, and <author><givenNames>L. M.</givenNames> <familyName>Buja</familyName></author>. <pubYear year="2012">2012</pubYear>. <articleTitle>Sudden unexpected death on fingolimod</articleTitle>. <journalTitle>Mult. Scler.</journalTitle> <vol>18</vol>:<pageFirst>1507</pageFirst>–<pageLast>1508</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0062">
+<citation type="journal" xml:id="brb3362-cit-0062"><author><familyName>Link</familyName>, <givenNames>H.</givenNames></author>, and <author><givenNames>Y. M.</givenNames> <familyName>Huang</familyName></author>. <pubYear year="2006">2006</pubYear>. <articleTitle>Oligoclonal bands in multiple sclerosis cerebrospinal fluid: an update on methodology and clinical usefulness</articleTitle>. <journalTitle>J. Neuroimmunol.</journalTitle> <vol>180</vol>:<pageFirst>17</pageFirst>–<pageLast>28</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0063">
+<citation type="journal" xml:id="brb3362-cit-0063"><author><familyName>Linker</familyName>, <givenNames>R. A.</givenNames></author>, <author><givenNames>D. H.</givenNames> <familyName>Lee</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Ryan</familyName></author>, <author><givenNames>A. M.</givenNames> <familyName>van Dam</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Conrad</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Bista</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Fumaric acid esters exert neuroprotective effects in neuroinflammation via activation of the Nrf2 antioxidant pathway</articleTitle>. <journalTitle>Brain</journalTitle> <vol>134</vol>:<pageFirst>678</pageFirst>–<pageLast>692</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0064">
+<citation type="journal" xml:id="brb3362-cit-0064"><author><familyName>Lublin</familyName>, <givenNames>F. D.</givenNames></author>, and <author><givenNames>S. C.</givenNames> <familyName>Reingold</familyName></author>. <pubYear year="1996">1996</pubYear>. <articleTitle>Defining the clinical course of multiple sclerosis: results of an international survey. National Multiple Sclerosis Society (USA) Advisory Committee on Clinical Trials of New Agents in Multiple Sclerosis</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>46</vol>:<pageFirst>907</pageFirst>–<pageLast>911</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0065">
+<citation type="journal" xml:id="brb3362-cit-0065"><author><familyName>Lublin</familyName>, <givenNames>F. D.</givenNames></author>, <author><givenNames>S. C.</givenNames> <familyName>Reingold</familyName></author>, <author><givenNames>J. A.</givenNames> <familyName>Cohen</familyName></author>, <author><givenNames>G. R.</givenNames> <familyName>Cutter</familyName></author>, <author><givenNames>P. S.</givenNames> <familyName>Sørensen</familyName></author>, <author><givenNames>A. J.</givenNames> <familyName>Thompson</familyName></author> et al. <pubYear year="2014">2014</pubYear>. <articleTitle>Defining the clinical course of multiple sclerosis: the 2013 revisions</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>83</vol>:<pageFirst>278</pageFirst>–<pageLast>286</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0066">
+<citation type="journal" xml:id="brb3362-cit-0066"><author><familyName>Lucchinetti</familyName>, <givenNames>C.</givenNames></author>, <author><givenNames>W.</givenNames> <familyName>Bruck</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Parisi</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Scheithauer</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Rodriguez</familyName></author>, and <author><givenNames>H.</givenNames> <familyName>Lassmann</familyName></author>. <pubYear year="2000">2000</pubYear>. <articleTitle>Heterogeneity of multiple sclerosis lesions: implications for the pathogenesis of demyelination</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>47</vol>:<pageFirst>707</pageFirst>–<pageLast>717</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0067">
+<citation type="journal" xml:id="brb3362-cit-0067"><author><familyName>Lucchinetti</familyName>, <givenNames>C. F.</givenNames></author>, <author><givenNames>R. H.</givenNames> <familyName>Gavrilova</familyName></author>, <author><givenNames>I.</givenNames> <familyName>Metz</familyName></author>, <author><givenNames>J. E.</givenNames> <familyName>Parisi</familyName></author>, <author><givenNames>B. W.</givenNames> <familyName>Scheithauer</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Weigand</familyName></author>, et al. <pubYear year="2008">2008</pubYear>. <articleTitle>Clinical and radiographic spectrum of pathologically confirmed tumefactive multiple sclerosis</articleTitle>. <journalTitle>Brain</journalTitle> <vol>131</vol>:<pageFirst>1759</pageFirst>–<pageLast>1775</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0068">
+<citation type="journal" xml:id="brb3362-cit-0068"><author><familyName>Lucchinetti</familyName>, <givenNames>C. F.</givenNames></author>, <author><givenNames>B. F.</givenNames> <familyName>Popescu</familyName></author>, <author><givenNames>R. F.</givenNames> <familyName>Bunyan</familyName></author>, <author><givenNames>N. M.</givenNames> <familyName>Moll</familyName></author>, <author><givenNames>S. F.</givenNames> <familyName>Roemer</familyName></author>, <author><givenNames>H.</givenNames> <familyName>Lassmann</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Inflammatory cortical demyelination in early multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>365</vol>:<pageFirst>2188</pageFirst>–<pageLast>2197</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0069">
+<citation type="journal" xml:id="brb3362-cit-0069"><author><familyName>Mayr</familyName>, <givenNames>W. T.</givenNames></author>, <author><givenNames>S. J.</givenNames> <familyName>Pittock</familyName></author>, <author><givenNames>R. L.</givenNames> <familyName>McClelland</familyName></author>, <author><givenNames>N. W.</givenNames> <familyName>Jorgensen</familyName></author>, <author><givenNames>J. H.</givenNames> <familyName>Noseworthy</familyName></author>, and <author><givenNames>M.</givenNames> <familyName>Rodriguez</familyName></author>. <pubYear year="2003">2003</pubYear>. <articleTitle>Incidence and prevalence of multiple sclerosis in Olmsted County, Minnesota, 1985–2000</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>61</vol>:<pageFirst>1373</pageFirst>–<pageLast>1377</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0070">
+<citation type="journal" xml:id="brb3362-cit-0070"><author><familyName>Miller</familyName>, <givenNames>D. H.</givenNames></author>, and <author><givenNames>S. M.</givenNames> <familyName>Leary</familyName></author>. <pubYear year="2007">2007</pubYear>. <articleTitle>Primary‐progressive multiple sclerosis</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>6</vol>:<pageFirst>903</pageFirst>–<pageLast>912</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0071">
+<citation type="journal" xml:id="brb3362-cit-0071"><author><familyName>Miller</familyName>, <givenNames>S. D.</givenNames></author>, <author><givenNames>C. L.</givenNames> <familyName>Vanderlugt</familyName></author>, <author><givenNames>W. S.</givenNames> <familyName>Begolka</familyName></author>, <author><givenNames>W.</givenNames> <familyName>Pao</familyName></author>, <author><givenNames>R. L.</givenNames> <familyName>Yauch</familyName></author>, <author><givenNames>K. L.</givenNames> <familyName>Neville</familyName></author>, et al. <pubYear year="1997">1997</pubYear>. <articleTitle>Persistent infection with Theiler's virus leads to CNS autoimmunity via epitope spreading</articleTitle>. <journalTitle>Nat. Med.</journalTitle> <vol>3</vol>:<pageFirst>1133</pageFirst>–<pageLast>1136</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0072">
+<citation type="journal" xml:id="brb3362-cit-0072"><author><familyName>Miller</familyName>, <givenNames>D. H.</givenNames></author>, <author><givenNames>O. A.</givenNames> <familyName>Khan</familyName></author>, <author><givenNames>W. A.</givenNames> <familyName>Sheremata</familyName></author>, <author><givenNames>L. D.</givenNames> <familyName>Blumhardt</familyName></author>, <author><givenNames>G. P. A.</givenNames> <familyName>Rice</familyName></author>, <author><givenNames>M. A.</givenNames> <familyName>Libonati</familyName></author>, et al. <pubYear year="2003">2003</pubYear>. <articleTitle>A controlled trial of natalizumab for relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>348</vol>:<pageFirst>15</pageFirst>–<pageLast>23</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0073">
+<citation type="journal" xml:id="brb3362-cit-0073"><author><familyName>Miller</familyName>, <givenNames>D.</givenNames></author>, <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>, <author><givenNames>X.</givenNames> <familyName>Montalban</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Thompson</familyName></author>, and <author><givenNames>M.</givenNames> <familyName>Filippi</familyName></author>. <pubYear year="2005">2005</pubYear>. <articleTitle>Clinically isolated syndromes suggestive of multiple sclerosis, part I: natural history, pathogenesis, diagnosis, and prognosis</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>4</vol>:<pageFirst>281</pageFirst>–<pageLast>288</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0500">
+<citation type="journal" xml:id="brb3362-cit-0500"><author><familyName>Montalban</familyName>, <givenNames>X.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>Tintore</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Swanton</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Fazekas</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Filippi</familyName></author>, et al. <pubYear year="2010">2010</pubYear>. <articleTitle>MRI criteria for MS in patients with clinically isolated syndromes</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>74</vol>:<pageFirst>427</pageFirst>–<pageLast>434</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0074">
+<citation type="journal" xml:id="brb3362-cit-0074"><author><familyName>Munger</familyName>, <givenNames>K. L.</givenNames></author>, <author><givenNames>S. M.</givenNames> <familyName>Zhang</familyName></author>, <author><givenNames>E.</givenNames> <familyName>O'Reilly</familyName></author>, <author><givenNames>M. A.</givenNames> <familyName>Hernán</familyName></author>, <author><givenNames>M. J.</givenNames> <familyName>Olek</familyName></author>, <author><givenNames>W. C.</givenNames> <familyName>Willett</familyName></author>, et al. <pubYear year="2004">2004</pubYear>. <articleTitle>Vitamin D intake and incidence of multiple sclerosis</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>62</vol>:<pageFirst>60</pageFirst>–<pageLast>65</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0075">
+<citation type="journal" xml:id="brb3362-cit-0075"><author><familyName>Munger</familyName>, <givenNames>K. L.</givenNames></author>, <author><givenNames>L. I.</givenNames> <familyName>Levin</familyName></author>, <author><givenNames>B. W.</givenNames> <familyName>Hollis</familyName></author>, <author><givenNames>N. S.</givenNames> <familyName>Howard</familyName></author>, and <author><givenNames>A.</givenNames> <familyName>Ascherio</familyName></author>. <pubYear year="2006">2006</pubYear>. <articleTitle>Serum 25‐hydroxyvitamin D levels and risk of multiple sclerosis</articleTitle>. <journalTitle>JAMA</journalTitle> <vol>296</vol>:<pageFirst>2832</pageFirst>–<pageLast>2838</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0076">
+<citation type="journal" xml:id="brb3362-cit-0076"><author><familyName>Naismith</familyName>, <givenNames>R. T.</givenNames></author>, <author><givenNames>L.</givenNames> <familyName>Piccio</familyName></author>, <author><givenNames>J. A.</givenNames> <familyName>Lyons</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Lauber</familyName></author>, <author><givenNames>N. T.</givenNames> <familyName>Tutlam</familyName></author>, <author><givenNames>B. J.</givenNames> <familyName>Parks</familyName></author>, et al. <pubYear year="2010">2010</pubYear>. <articleTitle>Rituximab add‐on therapy for breakthrough relapsing multiple sclerosis: a 52‐week phase II trial</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>74</vol>:<pageFirst>1860</pageFirst>–<pageLast>1867</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0077">
+<citation type="journal" xml:id="brb3362-cit-0077"><author><familyName>O'Connor</familyName>, <givenNames>K. C.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Bar‐Or</familyName></author>, and <author><givenNames>D. A.</givenNames> <familyName>Hafler</familyName></author>. <pubYear year="2001">2001</pubYear>. <articleTitle>The neuroimmunology of multiple sclerosis: possible roles of T and B lymphocytes in immunopathogenesis</articleTitle>. <journalTitle>J. Clin. Immunol.</journalTitle> <vol>21</vol>:<pageFirst>81</pageFirst>–<pageLast>92</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0078">
+<citation type="journal" xml:id="brb3362-cit-0078"><author><familyName>O'Connor</familyName>, <givenNames>P.</givenNames></author>, <author><givenNames>J. S.</givenNames> <familyName>Wolinsky</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Confavreux</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Comi</familyName></author>, <author><givenNames>L.</givenNames> <familyName>Kappos</familyName></author>, <author><givenNames>T. P.</givenNames> <familyName>Olsson</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Randomized trial of oral teriflunomide for relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>365</vol>:<pageFirst>1293</pageFirst>–<pageLast>1303</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0079">
+<citation type="journal" xml:id="brb3362-cit-0079"><author><familyName>Oh</familyName>, <givenNames>J.</givenNames></author>, and <author><givenNames>P. W.</givenNames> <familyName>O'Connor</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>An update of teriflunomide for treatment of multiple sclerosis</articleTitle>. <journalTitle>Ther. Clin. Risk Manag.</journalTitle> <vol>9</vol>:<pageFirst>177</pageFirst>–<pageLast>190</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0080">
+<citation type="journal" xml:id="brb3362-cit-0080"><author><familyNamePrefix>van</familyNamePrefix> <familyName>Oosten</familyName>, <givenNames>B. W.</givenNames></author>, <author><givenNames>J.</givenNames> <familyName>Killestein</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>, <author><givenNames>C. H.</givenNames> <familyName>Polman</familyName></author>, and <author><givenNames>M. P.</givenNames> <familyName>Wattjes</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>PML in a patient treated with dimethyl fumarate from a compounding pharmacy</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>368</vol>:<pageFirst>1658</pageFirst>–<pageLast>1659</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0081">
+<citation type="journal" xml:id="brb3362-cit-0081"><author><familyName>Orton</familyName>, <givenNames>S. M.</givenNames></author>, <author><givenNames>B. M.</givenNames> <familyName>Herrera</familyName></author>, <author><givenNames>I. M.</givenNames> <familyName>Yee</familyName></author>, <author><givenNames>W.</givenNames> <familyName>Valdar</familyName></author>, <author><givenNames>S. V.</givenNames> <familyName>Ramagopalan</familyName></author>, <author><givenNames>A. D.</givenNames> <familyName>Sadovnick</familyName></author>, et al. <pubYear year="2006">2006</pubYear>. <articleTitle>Sex ratio of multiple sclerosis in Canada: a longitudinal study</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>5</vol>:<pageFirst>932</pageFirst>–<pageLast>936</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0082">
+<citation type="journal" xml:id="brb3362-cit-0082"><author><familyName>Pelletier</familyName>, <givenNames>D.</givenNames></author>, and <author><givenNames>D. A.</givenNames> <familyName>Hafler</familyName></author>. <pubYear year="2012">2012</pubYear>. <articleTitle>Fingolimod for multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>366</vol>:<pageFirst>339</pageFirst>–<pageLast>347</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0083">
+<citation type="journal" xml:id="brb3362-cit-0083"><author><familyName>Polman</familyName>, <givenNames>C. H.</givenNames></author>, <author><givenNames>P. W.</givenNames> <familyName>O'Connor</familyName></author>, <author><givenNames>E.</givenNames> <familyName>Havrdova</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Hutchinson</familyName></author>, <author><givenNames>L.</givenNames> <familyName>Kappos</familyName></author>, <author><givenNames>D. H.</givenNames> <familyName>Miller</familyName></author>, et al. <pubYear year="2006">2006</pubYear>. <articleTitle>A randomized, placebo‐controlled trial of natalizumab for relapsing multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>354</vol>:<pageFirst>899</pageFirst>–<pageLast>910</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0084">
+<citation type="journal" xml:id="brb3362-cit-0084"><author><familyName>Polman</familyName>, <givenNames>C. H.</givenNames></author>, <author><givenNames>S. C.</givenNames> <familyName>Reingold</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Banwell</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Clanet</familyName></author>, <author><givenNames>J. A.</givenNames> <familyName>Cohen</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Filippi</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Diagnostic criteria for multiple sclerosis: 2010 revisions to the McDonald criteria</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>69</vol>:<pageFirst>292</pageFirst>–<pageLast>302</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0085">
+<citation type="journal" xml:id="brb3362-cit-0085"><author><familyName>Popescu</familyName>, <givenNames>B. F.</givenNames></author>, and <author><givenNames>C. F.</givenNames> <familyName>Lucchinetti</familyName></author>. <pubYear year="2012">2012</pubYear>. <articleTitle>Pathology of demyelinating diseases</articleTitle>. <journalTitle>Annu. Rev. Pathol.</journalTitle> <vol>7</vol>:<pageFirst>185</pageFirst>–<pageLast>217</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0086">
+<citation type="journal" xml:id="brb3362-cit-0086"><author><familyName>Prineas</familyName>, <givenNames>J. W.</givenNames></author>, <author><givenNames>E. E.</givenNames> <familyName>Kwon</familyName></author>, <author><givenNames>E. S.</givenNames> <familyName>Cho</familyName></author>, <author><givenNames>L. R.</givenNames> <familyName>Sharer</familyName></author>, <author><givenNames>M. H.</givenNames> <familyName>Barnett</familyName></author>, <author><givenNames>E. L.</givenNames> <familyName>Oleszak</familyName></author>, et al. <pubYear year="2001">2001</pubYear>. <articleTitle>Immunopathology of secondary‐progressive multiple sclerosis</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>50</vol>:<pageFirst>646</pageFirst>–<pageLast>657</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0087">
+<citation type="journal" xml:id="brb3362-cit-0087"><author><familyName>Ransohoff</familyName>, <givenNames>R. M.</givenNames></author> <pubYear year="2007">2007</pubYear>. <articleTitle>Natalizumab for multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>356</vol>:<pageFirst>2622</pageFirst>–<pageLast>2629</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0088">
+<citation type="journal" xml:id="brb3362-cit-0088"><author><familyName>Rudick</familyName>, <givenNames>R. A.</givenNames></author>, <author><givenNames>J. A.</givenNames> <familyName>Cohen</familyName></author>, <author><givenNames>B.</givenNames> <familyName>Weinstock‐Guttman</familyName></author>, <author><givenNames>R. P.</givenNames> <familyName>Kinkel</familyName></author>, and <author><givenNames>R. M.</givenNames> <familyName>Ransohoff</familyName></author>. <pubYear year="1997">1997</pubYear>. <articleTitle>Management of multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>337</vol>:<pageFirst>1604</pageFirst>–<pageLast>1611</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0089">
+<citation type="journal" xml:id="brb3362-cit-0089"><author><familyName>Ruggieri</familyName>, <givenNames>M.</givenNames></author>, <author><givenNames>C.</givenNames> <familyName>Avolio</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Livrea</familyName></author>, and <author><givenNames>M.</givenNames> <familyName>Trojano</familyName></author>. <pubYear year="2007">2007</pubYear>. <articleTitle>Glatiramer acetate in multiple sclerosis: a review</articleTitle>. <journalTitle>CNS Drug Rev.</journalTitle> <vol>13</vol>:<pageFirst>178</pageFirst>–<pageLast>191</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0090">
+<citation type="journal" xml:id="brb3362-cit-0090"><author><familyName>Samson</familyName>, <givenNames>K.</givenNames></author> <pubYear year="2013">2013</pubYear>. <articleTitle>PML in suspected MS patient taking Fingolimod Raises FDA concerns</articleTitle>. <journalTitle>Neurology Today</journalTitle> <vol>13</vol>:<pageFirst>37</pageFirst>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0091">
+<citation type="journal" xml:id="brb3362-cit-0091"><author><familyName>Sawcer</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>G.</givenNames> <familyName>Hellenthal</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Pirinen</familyName></author>, <author><givenNames>C. C.</givenNames> <familyName>Spencer</familyName></author>, <author><givenNames>N. A.</givenNames> <familyName>Patsopoulos</familyName></author>, <author><givenNames>L.</givenNames> <familyName>Moutsianas</familyName></author>, et al. <pubYear year="2011">2011</pubYear>. <articleTitle>Genetic risk and a primary role for cell‐mediated immune mechanisms in multiple sclerosis</articleTitle>. <journalTitle>Nature</journalTitle> <vol>476</vol>:<pageFirst>214</pageFirst>–<pageLast>219</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0092">
+<citation type="journal" xml:id="brb3362-cit-0092"><author><familyName>Selter</familyName>, <givenNames>C. R.</givenNames></author>, and <author><givenNames>B.</givenNames> <familyName>Hemmer</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>Update on immunopathogenesis and immunotherapy in multiple sclerosis</articleTitle>. <journalTitle>Immuno. Targets Therapy</journalTitle> <vol>2</vol>:<pageFirst>21</pageFirst>–<pageLast>30</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0093">
+<citation type="journal" xml:id="brb3362-cit-0093"><author><familyName>Simpson</familyName>, <givenNames>S.</givenNames> <nameSuffix>Jr</nameSuffix></author>, <author><givenNames>L.</givenNames> <familyName>Blizzard</familyName></author>, <author><givenNames>P.</givenNames> <familyName>Otahal</familyName></author>, <author><givenNames>I.</givenNames> <familyNamePrefix>Van der</familyNamePrefix> <familyName>Mei</familyName></author>, and <author><givenNames>B.</givenNames> <familyName>Taylor</familyName></author>. <pubYear year="2011">2011</pubYear>. <articleTitle>Latitude is significantly associated with the prevalence of multiple sclerosis: a meta‐analysis</articleTitle>. <journalTitle>J. Neurol. Neurosurg. Psychiatry</journalTitle> <vol>82</vol>:<pageFirst>1132</pageFirst>–<pageLast>1141</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0094">
+<citation type="other" xml:id="brb3362-cit-0094"><author><familyName>Sobel</familyName>, <givenNames>R.</givenNames></author>, and <author><givenNames>W.</givenNames> <familyName>Moore</familyName></author>. <pubYear year="2008">2008</pubYear>. Demyelinating diseases. Greenfield's neuropathology, <publisherLoc>London, UK</publisherLoc>: <publisherName>Oxford Univ. Press</publisherName> <vol>2</vol>:<pageFirst>1513</pageFirst>–<pageLast>1608</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0095">
+<citation type="journal" xml:id="brb3362-cit-0095"><author><familyName>Sotgiu</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>Pugliatti</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Sotgiu</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Sanna</familyName></author>, and <author><givenNames>G.</givenNames> <familyName>Rosati</familyName></author>. <pubYear year="2003">2003</pubYear>. <articleTitle>Does the “hygiene hypothesis” provide an explanation for the high prevalence of multiple sclerosis in Sardinia?</articleTitle> <journalTitle>Autoimmunity</journalTitle> <vol>36</vol>:<pageFirst>257</pageFirst>–<pageLast>260</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0096">
+<citation type="journal" xml:id="brb3362-cit-0096"><author><familyName>Stadelmann</familyName>, <givenNames>C.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Ludwin</familyName></author>, <author><givenNames>T.</givenNames> <familyName>Tabira</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Guseo</familyName></author>, <author><givenNames>C. F.</givenNames> <familyName>Lucchinetti</familyName></author>, <author><givenNames>L.</givenNames> <familyName>Leel‐Ossy</familyName></author>, et al. <pubYear year="2005">2005</pubYear>. <articleTitle>Tissue preconditioning may explain concentric lesions in Balo's type of multiple sclerosis</articleTitle>. <journalTitle>Brain</journalTitle> <vol>128</vol>:<pageFirst>979</pageFirst>–<pageLast>987</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0501">
+<citation type="journal" xml:id="brb3362-cit-0501"><author><familyName>Swanton</familyName>, <givenNames>J. K.</givenNames></author>, <author><givenNames>K.</givenNames> <familyName>Fernando</familyName></author>, <author><givenNames>C. M.</givenNames> <familyName>Dalton</familyName></author>, <author><givenNames>K. A.</givenNames> <familyName>Miszkiel</familyName></author>, <author><givenNames>A. J.</givenNames> <familyName>Thompson</familyName></author>, <author><givenNames>G. T.</givenNames> <familyName>Plant</familyName></author>, et al. <pubYear year="2006">2006</pubYear>. <articleTitle>Modification of MRI criteria for multiple sclerosis in patients with clinically isolated syndromes</articleTitle>. <journalTitle>J. Neurol. Neurosurg. Psychiatry</journalTitle> <vol>77</vol>:<pageFirst>830</pageFirst>–<pageLast>833</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0502">
+<citation type="journal" xml:id="brb3362-cit-0502"><author><familyName>Swanton</familyName>, <givenNames>J. K.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Rovira</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Tintore</familyName></author>, <author><givenNames>D. R.</givenNames> <familyName>Altman</familyName></author>, <author><givenNames>F.</givenNames> <familyName>Barkhof</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Filippi</familyName></author>, et al. <pubYear year="2007">2007</pubYear>. <articleTitle>MRI criteria for multiple sclerosis in patients presenting with clinically isolated syndromes: a multicentre retrospective study</articleTitle>. <journalTitle>Lancet Neurol.</journalTitle> <vol>6</vol>:<pageFirst>677</pageFirst>–<pageLast>686</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0097">
+<citation type="journal" xml:id="brb3362-cit-0097"><author><familyName>Sweetser</familyName>, <givenNames>M. T.</givenNames></author>, <author><givenNames>K. T.</givenNames> <familyName>Dawson</familyName></author>, and <author><givenNames>C.</givenNames> <familyName>Bozic</familyName></author>. <pubYear year="2013">2013</pubYear>. <articleTitle>Case reports of PML in patients treated for psoriasis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>369</vol>:<pageFirst>1082</pageFirst>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0098">
+<citation type="journal" xml:id="brb3362-cit-0098"><author><familyName>Trapp</familyName>, <givenNames>B. D.</givenNames></author>, <author><givenNames>J.</givenNames> <familyName>Peterson</familyName></author>, <author><givenNames>R. M.</givenNames> <familyName>Ransohoff</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Rudick</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Mork</familyName></author>, and <author><givenNames>L.</givenNames> <familyName>Bo</familyName></author>. <pubYear year="1998">1998</pubYear>. <articleTitle>Axonal transection in the lesions of multiple sclerosis</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>338</vol>:<pageFirst>278</pageFirst>–<pageLast>285</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-1002">
+<citation type="other" xml:id="brb3362-cit-1002"><groupName>TYSABRI<sup>®</sup> (natalizumab): PML Incidence in Patients Receiving TYSABRI</groupName> ( December <pubYear year="2014">2014</pubYear>). Medical Information, <email>medinfo@biogenidec.com</email>, <url href="http://medinfo.biogenidec.com">http://medinfo.biogenidec.com</url>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0099">
+<citation type="journal" xml:id="brb3362-cit-0099"><author><familyName>Tzartos</familyName>, <givenNames>J. S.</givenNames></author>, <author><givenNames>M. A.</givenNames> <familyName>Friese</familyName></author>, <author><givenNames>M. J.</givenNames> <familyName>Craner</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Palace</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Newcombe</familyName></author>, <author><givenNames>M. M.</givenNames> <familyName>Esiri</familyName></author>, et al. <pubYear year="2008">2008</pubYear>. <articleTitle>Interleukin‐17 production in central nervous system‐infiltrating T cells and glial cells is associated with active disease in multiple sclerosis</articleTitle>. <journalTitle>Am. J. Pathol.</journalTitle> <vol>172</vol>:<pageFirst>146</pageFirst>–<pageLast>155</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0100">
+<citation type="journal" xml:id="brb3362-cit-0100"><author><familyName>Weber</familyName>, <givenNames>F.</givenNames></author>, <author><givenNames>J.</givenNames> <familyName>Janovskaja</familyName></author>, <author><givenNames>T.</givenNames> <familyName>Polak</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Poser</familyName></author>, and <author><givenNames>P.</givenNames> <familyName>Rieckmann</familyName></author>. <pubYear year="1999">1999</pubYear>. <articleTitle>Effect of interferon beta on human myelin basic protein‐specific T‐cell lines: comparison of IFNbeta‐1a and IFNbeta‐1b</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>52</vol>:<pageFirst>1069</pageFirst>–<pageLast>1071</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0101">
+<citation type="journal" xml:id="brb3362-cit-0101"><author><familyName>Weinshenker</familyName>, <givenNames>B. G.</givenNames></author> <pubYear year="1996">1996</pubYear>. <articleTitle>Epidemiology of multiple sclerosis</articleTitle>. <journalTitle>Neurol. Clin.</journalTitle> <vol>14</vol>:<pageFirst>291</pageFirst>–<pageLast>308</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0102">
+<citation type="journal" xml:id="brb3362-cit-0102"><author><familyName>Weinshenker</familyName>, <givenNames>B. G.</givenNames></author>, <author><givenNames>B.</givenNames> <familyName>Bass</familyName></author>, <author><givenNames>G. P.</givenNames> <familyName>Rice</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Noseworthy</familyName></author>, <author><givenNames>W.</givenNames> <familyName>Carriere</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Baskerville</familyName></author>, et al. <pubYear year="1989">1989</pubYear>. <articleTitle>The natural history of multiple sclerosis: a geographically based study. I. Clinical course and disability</articleTitle>. <journalTitle>Brain</journalTitle> <vol>112</vol>(<issue>Pt 1</issue>):<pageFirst>133</pageFirst>–<pageLast>146</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0103">
+<citation type="journal" xml:id="brb3362-cit-0103"><author><familyName>Weinstock‐Guttman</familyName>, <givenNames>B.</givenNames></author>, <author><givenNames>R. M.</givenNames> <familyName>Ransohoff</familyName></author>, <author><givenNames>R. P.</givenNames> <familyName>Kinkel</familyName></author>, and <author><givenNames>R. A.</givenNames> <familyName>Rudick</familyName></author>. <pubYear year="1995">1995</pubYear>. <articleTitle>The interferons: biological effects, mechanisms of action, and use in multiple sclerosis</articleTitle>. <journalTitle>Ann. Neurol.</journalTitle> <vol>37</vol>:<pageFirst>7</pageFirst>–<pageLast>15</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0104">
+<citation type="journal" xml:id="brb3362-cit-0104"><author><familyName>Williams</familyName>, <givenNames>R.</givenNames></author>, <author><givenNames>A. S.</givenNames> <familyName>Rigby</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Airey</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Robinson</familyName></author>, and <author><givenNames>H.</givenNames> <familyName>Ford</familyName></author>. <pubYear year="1995">1995</pubYear>. <articleTitle>Multiple sclerosis: it epidemiological, genetic, and health care impact</articleTitle>. <journalTitle>J. Epidemiol. Community Health</journalTitle> <vol>49</vol>:<pageFirst>563</pageFirst>–<pageLast>569</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0105">
+<citation type="journal" xml:id="brb3362-cit-0105"><author><familyName>Wingerchuk</familyName>, <givenNames>D. M.</givenNames></author> <pubYear year="2012">2012</pubYear>. <articleTitle>Smoking: effects on multiple sclerosis susceptibility and disease progression</articleTitle>. <journalTitle>Therapeut. Advan. Neurol. Dis.</journalTitle> <vol>5</vol>:<pageFirst>13</pageFirst>–<pageLast>22</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0106">
+<citation type="journal" xml:id="brb3362-cit-0106"><author><familyName>Wolinsky</familyName>, <givenNames>J. S.</givenNames></author> <pubYear year="1995">1995</pubYear>. <articleTitle>Copolymer 1: a most reasonable alternative therapy for early relapsing‐remitting multiple sclerosis with mild disability</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>45</vol>:<pageFirst>1245</pageFirst>–<pageLast>1247</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0107">
+<citation type="journal" xml:id="brb3362-cit-0107"><author><familyName>Wu</familyName>, <givenNames>C.</givenNames></author>, <author><givenNames>N.</givenNames> <familyName>Yosef</familyName></author>, <author><givenNames>T.</givenNames> <familyName>Thalhamer</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Zhu</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Xiao</familyName></author>, <author><givenNames>Y.</givenNames> <familyName>Kishi</familyName></author>, et al. <pubYear year="2013">2013</pubYear>. <articleTitle>Induction of pathogenic TH17 cells by inducible salt‐sensing kinase SGK1</articleTitle>. <journalTitle>Nature</journalTitle> <vol>496</vol>:<pageFirst>513</pageFirst>–<pageLast>517</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0108">
+<citation type="journal" xml:id="brb3362-cit-0108"><author><familyName>Wucherpfennig</familyName>, <givenNames>K. W.</givenNames></author>, and <author><givenNames>J. L.</givenNames> <familyName>Strominger</familyName></author>. <pubYear year="1995">1995</pubYear>. <articleTitle>Molecular mimicry in T cell‐mediated autoimmunity: viral peptides activate human T cell clones specific for myelin basic protein</articleTitle>. <journalTitle>Cell</journalTitle> <vol>80</vol>:<pageFirst>695</pageFirst>–<pageLast>705</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0109">
+<citation type="journal" xml:id="brb3362-cit-0109"><author><familyName>Yong</familyName>, <givenNames>V. W.</givenNames></author> <pubYear year="2004">2004</pubYear>. <articleTitle>Immunopathogenesis of multiple sclerosis</articleTitle>. <journalTitle>Contin. Lifelong Learn. Neurol.</journalTitle> <vol>10</vol>:<pageFirst>11</pageFirst>–<pageLast>27</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0110">
+<citation type="journal" xml:id="brb3362-cit-0110"><author><familyName>Yong</familyName>, <givenNames>V. W.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Chabot</familyName></author>, <author><givenNames>O.</givenNames> <familyName>Stuve</familyName></author>, and <author><givenNames>G.</givenNames> <familyName>Williams</familyName></author>. <pubYear year="1998">1998</pubYear>. <articleTitle>Interferon beta in the treatment of multiple sclerosis: mechanisms of action</articleTitle>. <journalTitle>Neurology</journalTitle> <vol>51</vol>:<pageFirst>682</pageFirst>–<pageLast>689</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0111">
+<citation type="journal" xml:id="brb3362-cit-0111"><author><familyName>Yousry</familyName>, <givenNames>T. A.</givenNames></author>, <author><givenNames>E. O.</givenNames> <familyName>Major</familyName></author>, <author><givenNames>C.</givenNames> <familyName>Ryschkewitsch</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Fahle</familyName></author>, <author><givenNames>S.</givenNames> <familyName>Fischer</familyName></author>, <author><givenNames>J.</givenNames> <familyName>Hou</familyName></author>, et al. <pubYear year="2006">2006</pubYear>. <articleTitle>Evaluation of patients treated with natalizumab for progressive multifocal leukoencephalopathy</articleTitle>. <journalTitle>N. Engl. J. Med.</journalTitle> <vol>354</vol>:<pageFirst>924</pageFirst>–<pageLast>933</pageLast>.</citation>
+</bib>
+<bib xml:id="brb3362-bib-0112">
+<citation type="journal" xml:id="brb3362-cit-0112"><author><familyName>Zettl</familyName>, <givenNames>U. K.</givenNames></author>, <author><givenNames>O.</givenNames> <familyName>Stuve</familyName></author>, and <author><givenNames>R.</givenNames> <familyName>Patejdl</familyName></author>. <pubYear year="2012">2012</pubYear>. <articleTitle>Immune‐mediated CNS diseases: a review on nosological classification and clinical features</articleTitle>. <journalTitle>Autoimmun. Rev.</journalTitle> <vol>11</vol>:<pageFirst>167</pageFirst>–<pageLast>173</pageLast>.</citation>
+</bib>
+</bibliography>
+</body>
+</component>

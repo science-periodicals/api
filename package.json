@@ -1,0 +1,115 @@
+{
+  "name": "@scipe/api",
+  "version": "1.0.0",
+  "description": "sci.pe API",
+  "main": "dist/index.js",
+  "scripts": {
+    "cloudant": "docker restart cloudant-developer",
+    "format": "prettier --single-quote --write \"{src,test}/**/*.js\"",
+    "test": "cross-env DB_NAME=test-api npm run just-test",
+    "just-test": "cross-env DB_NAME=test-api mocha --reporter spec --require @babel/register --exit",
+    "pretest": "cross-env DB_NAME=test-api npm run create-auth-db && cross-env DB_NAME=test-api npm run push-auth-db && cross-env DB_NAME=test-api npm run delete-db && cross-env DB_NAME=test-api npm run create-db && cross-env DB_NAME=test-api npm run push-ddoc && cross-env DB_NAME=test-api npm run set-couchdb-auth && cross-env DB_NAME=test-api npm run reset-redis && cross-env DB_NAME=test-api npm run seed-services",
+    "redis": "$(brew info redis | tail -1)",
+    "reset-redis": "librarian reset-redis",
+    "set-couchdb-auth": "librarian secure",
+    "seed-services": "librarian seed-services",
+    "build": "rm -rf dist/* && babel src --out-dir dist",
+    "start": "babel-watch ./src/server.js | bunyan",
+    "watch": "babel --watch src --out-dir dist",
+    "init": "npm run delete-auth-db && npm run create-auth-db && npm run push-auth-db && npm run delete-db && npm run create-db && npm run push-ddoc && npm run set-couchdb-auth && npm run reset-redis && npm run seed-services",
+    "create-auth-db": "curl -XPUT ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${COUCH_AUTH_DB:=_users}",
+    "delete-auth-db": "curl -XDELETE ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${COUCH_AUTH_DB:=_users}",
+    "push-auth-db": "./node_modules/.bin/couchapp push ./node_modules/@scipe/ddoc-auth/ddoc.js ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${COUCH_AUTH_DB:=_users}",
+    "create-db": "curl -XPUT ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${DB_NAME:=scienceai}",
+    "delete-db": "curl -XDELETE ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${DB_NAME:=scienceai}",
+    "push-ddoc": "./node_modules/.bin/couchapp push ./node_modules/@scipe/ddoc/ddoc.js ${COUCH_PROTOCOL:=http:}//${COUCH_ADMIN_USERNAME:=admin}:${COUCH_ADMIN_PASSWORD:=pass}@${COUCH_HOST:=127.0.0.1}:${COUCH_PORT:=5984}/${DB_NAME:=scienceai}",
+    "prepublish": "npm run build",
+    "postversion": "git push && git push --tags"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-runtime",
+      "@babel/plugin-transform-async-to-generator"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "@scipe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/science-periodicals/api.git"
+  },
+  "keywords": [
+    "science.ai",
+    "hypermedia",
+    "API"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "See README.md",
+  "bugs": {
+    "url": "https://github.com/science-periodicals/api/issues"
+  },
+  "homepage": "https://github.com/science-periodicals/api#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.5.4",
+    "@scipe/blob-store": "^1.0.0",
+    "@scipe/collate": "^1.0.0",
+    "@scipe/create-error": "^1.0.0",
+    "@scipe/ds3-mime": "^1.0.0",
+    "@scipe/feed": "^1.0.0",
+    "@scipe/jsonld": "^1.0.0",
+    "@scipe/librarian": "^1.0.1",
+    "async": "^2.6.2",
+    "body-parser": "^1.19.0",
+    "bunyan": "^1.8.12",
+    "concat-stream": "^2.0.0",
+    "connect-redis": "^3.4.1",
+    "cookie": "^0.4.0",
+    "csurf": "^1.10.0",
+    "ejs": "^2.6.2",
+    "express": "^4.16.4",
+    "express-session": "^1.16.2",
+    "is-url": "^1.2.4",
+    "isemail": "^3.2.0",
+    "json-stable-stringify": "^1.0.1",
+    "lodash": "^4.17.14",
+    "mmmagic": "^0.5.3",
+    "npm-user-validate": "^1.0.0",
+    "once": "^1.4.0",
+    "rate-limiter-flexible": "^1.0.3",
+    "request": "^2.88.0",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4",
+    "@babel/node": "^7.5.0",
+    "@babel/plugin-transform-async-to-generator": "^7.5.0",
+    "@babel/plugin-transform-runtime": "^7.5.0",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/register": "^7.4.4",
+    "@scipe/ddoc": "^1.0.0",
+    "@scipe/ddoc-auth": "^1.0.0",
+    "@scipe/eslint-config": "^1.0.0",
+    "@scipe/express-logger": "^1.0.0",
+    "@scipe/workers": "^1.0.1",
+    "couchapp": "^0.11.0",
+    "cross-env": "^5.2.0",
+    "envify": "^4.1.0",
+    "jsdom": "^13.2.0",
+    "mocha": "^6.1.4",
+    "pouchdb": "^7.1.1",
+    "pouchdb-adapter-memory": "^7.1.1",
+    "prettier": "^1.17.1",
+    "server-destroy": "^1.0.1",
+    "split2": "^3.1.1",
+    "uuid": "^3.3.2",
+    "zeromq": "^5.1.0"
+  }
+}
