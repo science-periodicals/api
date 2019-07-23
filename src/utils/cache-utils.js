@@ -31,7 +31,24 @@ export function cache(
       if (err) {
         return callback(err);
       }
-      callback(null, bare ? data : JSON.stringify(data));
+
+      if (bare) {
+        return callback(null, data);
+      }
+
+      let stringifiedData;
+      try {
+        stringifiedData = JSON.stringify(data);
+      } catch (err) {
+        // can fail due to circular references for instance
+        req.log.error(
+          { err, url: req.originalUrl },
+          'Could not stringify data'
+        );
+        return callback(err);
+      }
+
+      callback(null, stringifiedData);
     });
   }
 
@@ -72,8 +89,20 @@ export function cache(
         return callback(err);
       }
 
+      let stringifiedData;
+      try {
+        stringifiedData = JSON.stringify(data);
+      } catch (err) {
+        // can fail due to circular references for instance
+        req.log.error(
+          { err, url: req.originalUrl },
+          'Could not stringify data'
+        );
+        return callback(err);
+      }
+
       // we callback ASAP
-      callback(null, bare ? data : JSON.stringify(data));
+      callback(null, bare ? data : stringifiedData);
 
       // Cache
 
@@ -83,7 +112,7 @@ export function cache(
       redis
         .multi([
           // cached payload (auto expires after `lifeSpan`)
-          ['setex', cacheKey, lifeSpan, JSON.stringify(data)],
+          ['setex', cacheKey, lifeSpan, stringifiedData],
           // auto expiring set to keep track of what cacheKey are related to a scopeId so that we can do cache invalidation based on scopes later
           // the set of cache keys by scopeId (needed for cache invalidation)
           ...scopeIds.map(scopeId => {

@@ -1,3 +1,4 @@
+import once from 'once';
 import { Router } from 'express';
 import createError from '@scipe/create-error';
 import { contextLink, getId, arrayify } from '@scipe/jsonld';
@@ -74,6 +75,7 @@ router.get(
 
   // serve encoding content
   (req, res, next) => {
+    next = once(next);
     const { encoding } = req;
 
     if (req.headers['if-none-match']) {

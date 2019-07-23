@@ -26,6 +26,12 @@ describe('error middleware', function() {
       };
       next(err);
     });
+    app.get('/code', (req, res, next) => {
+      const err = new Error('boom');
+      err.code = 'ENOENT';
+      next(err);
+    });
+
     app.use(error());
 
     server = http.createServer(app);
@@ -59,6 +65,22 @@ describe('error middleware', function() {
       (err, resp, body) => {
         assert.equal(resp.statusCode, 500);
         assert(JSON.parse(body).error.description);
+        done();
+      }
+    );
+  });
+
+  it('should not crash with invalid error code', done => {
+    client.get(
+      {
+        url: '/action',
+        headers: {
+          Accept: 'application/json'
+        }
+      },
+      (err, resp, body) => {
+        // the invalid code is turned into 500
+        assert.equal(resp.statusCode, 500);
         done();
       }
     );
