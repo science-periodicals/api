@@ -208,7 +208,10 @@ export function parseQuery(req, res, next) {
           parsed =
             String(value) === 'true' || String(value) === 'false'
               ? String(value) === 'true'
-              : value === 'all' || value === 'bare' || value === 'dashboard'
+              : value === 'all' ||
+                value === 'bare' ||
+                value === 'dashboard' ||
+                value === 'reader'
               ? value
               : undefined;
           break;
