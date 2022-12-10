@@ -73,7 +73,7 @@
     "cookie": "^0.4.0",
     "csurf": "^1.10.0",
     "ejs": "^2.6.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "is-url": "^1.2.4",
     "isemail": "^3.2.0",
